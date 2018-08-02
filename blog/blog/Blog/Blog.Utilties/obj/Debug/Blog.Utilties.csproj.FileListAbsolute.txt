@@ -7,3 +7,13 @@ F:\zyCoder\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.csproj.CoreCompileInp
 F:\zyCoder\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.csproj.CopyComplete
 F:\zyCoder\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.dll
 F:\zyCoder\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.pdb
+F:\Blog\blog\blog\Blog\Blog.Utilties\bin\Debug\Blog.Utilties.dll
+F:\Blog\blog\blog\Blog\Blog.Utilties\bin\Debug\Blog.Utilties.pdb
+F:\Blog\blog\blog\Blog\Blog.Utilties\bin\Debug\log4net.dll
+F:\Blog\blog\blog\Blog\Blog.Utilties\bin\Debug\System.Web.Mvc.dll
+F:\Blog\blog\blog\Blog\Blog.Utilties\bin\Debug\log4net.xml
+F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.csprojAssemblyReference.cache
+F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.csproj.CoreCompileInputs.cache
+F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.csproj.CopyComplete
+F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.dll
+F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.pdb

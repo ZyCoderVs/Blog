@@ -1,0 +1,28 @@
+﻿@model System.Web.Mvc.HandleErrorInfo
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Error</title>
+</head>
+<body>
+    <p>
+        抛错控制器：<b>@Model.ControllerName</b> 抛错方法：<b>@Model.ActionName</b> 抛错类型：<b>
+            @Model.Exception.GetType().Name
+        </b>
+    </p>
+    <p>
+        异常信息：<b>@Model.Exception.Message</b>
+    </p>
+    <p>
+        堆栈信息:
+    </p>
+<pre>@Model.Exception.StackTrace</pre>
+</body>
+</html>

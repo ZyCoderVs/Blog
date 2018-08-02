@@ -1,9 +1,10 @@
 ﻿using Blog.Business.IBLL;
+using System.Web;
 using System.Web.Mvc;
 
 namespace Blog.WebApp.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : BaseController
     {
         private readonly ITestBLL _bll;
         public HomeController(ITestBLL bll)
@@ -12,8 +13,11 @@ namespace Blog.WebApp.Controllers
         }
         public ActionResult Index()
         {
-            ViewBag.Test= _bll.Get();
-            return View();
+            throw new System.Exception();
+            //HttpContext rq = System.Web.HttpContext.Current;
+            //ViewBag.Total=(int)rq.Application["OnLineCount"];
+            //ViewBag.Test = _bll.Get();
+            //return View();
         }
     }
 }
