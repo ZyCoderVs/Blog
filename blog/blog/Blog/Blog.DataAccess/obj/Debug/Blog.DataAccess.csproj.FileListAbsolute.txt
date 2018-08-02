@@ -1,0 +1,12 @@
+F:\zyCoder\blog\Blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.dll
+F:\zyCoder\blog\Blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.pdb
+F:\zyCoder\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csprojAssemblyReference.cache
+F:\zyCoder\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csproj.CoreCompileInputs.cache
+F:\zyCoder\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.dll
+F:\zyCoder\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.pdb
+G:\blog\blog\Blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.dll
+G:\blog\blog\Blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.pdb
+G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csprojAssemblyReference.cache
+G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csproj.CoreCompileInputs.cache
+G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.dll
+G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.pdb

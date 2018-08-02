@@ -1,0 +1,15 @@
+F:\zyCoder\blog\Blog\Blog.Business\bin\Debug\Blog.Business.dll
+F:\zyCoder\blog\Blog\Blog.Business\bin\Debug\Blog.Business.pdb
+F:\zyCoder\blog\Blog\Blog.Business\obj\Debug\Blog.Business.csprojAssemblyReference.cache
+F:\zyCoder\blog\Blog\Blog.Business\obj\Debug\Blog.Business.csproj.CoreCompileInputs.cache
+F:\zyCoder\blog\Blog\Blog.Business\obj\Debug\Blog.Business.dll
+F:\zyCoder\blog\Blog\Blog.Business\obj\Debug\Blog.Business.pdb
+G:\blog\blog\Blog\Blog.Business\bin\Debug\Blog.Business.dll
+G:\blog\blog\Blog\Blog.Business\bin\Debug\Blog.Business.pdb
+G:\blog\blog\Blog\Blog.Business\bin\Debug\Blog.DataAccess.dll
+G:\blog\blog\Blog\Blog.Business\bin\Debug\Blog.DataAccess.pdb
+G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.csprojAssemblyReference.cache
+G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.csproj.CoreCompileInputs.cache
+G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.csproj.CopyComplete
+G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.dll
+G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.pdb
