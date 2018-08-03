@@ -1,4 +1,4 @@
-﻿using Blog.Utilties.Blog.Filters;
+﻿using Blog.Utilties;
 using System.Web.Mvc;
 
 namespace Blog.WebApp.Controllers

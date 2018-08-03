@@ -1,7 +1,6 @@
-﻿using Blog.Utilties.Blog.Log;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
-namespace Blog.Utilties.Blog.Filters
+namespace Blog.Utilties
 {
     public class ExceptionFilters: HandleErrorAttribute
     {

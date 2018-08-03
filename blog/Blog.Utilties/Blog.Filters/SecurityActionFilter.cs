@@ -1,7 +1,6 @@
-﻿using Blog.Utilties.Blog.Safe;
-using System.Web.Mvc;
+﻿using System.Web.Mvc;
 
-namespace Blog.Utilties.Blog.Filters
+namespace Blog.Utilties
 {
     public class SecurityActionFilter : ActionFilterAttribute
     {

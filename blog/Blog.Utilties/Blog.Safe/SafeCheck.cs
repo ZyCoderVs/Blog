@@ -1,7 +1,7 @@
 ﻿using System.Text.RegularExpressions;
 using System.Web;
 
-namespace Blog.Utilties.Blog.Safe
+namespace Blog.Utilties
 {
     public class SafeCheck
     {

@@ -1,7 +1,7 @@
 ﻿using log4net;
 using System;
 
-namespace Blog.Utilties.Blog.Log
+namespace Blog.Utilties
 {
     public class LogHelper
     {
