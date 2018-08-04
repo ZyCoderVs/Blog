@@ -41,10 +41,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BLL\BaseBLL.cs" />
-    <Compile Include="BLL\TestBLL.cs" />
     <Compile Include="BLL\UserBLL.cs" />
     <Compile Include="IBLL\IBaseBLL.cs" />
-    <Compile Include="IBLL\ITestBLL.cs" />
     <Compile Include="IBLL\IUserBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

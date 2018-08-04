@@ -53,8 +53,6 @@
     <Compile Include="DAL\BaseDAL.cs" />
     <Compile Include="DAL\UserDAL.cs" />
     <Compile Include="IDAL\IBaseDAL.cs" />
-    <Compile Include="DAL\TestDAL.cs" />
-    <Compile Include="IDAL\ITestDAL.cs" />
     <Compile Include="IDAL\IUserDAL.cs" />
     <Compile Include="Migrations\201808040402173_init.cs" />
     <Compile Include="Migrations\201808040402173_init.Designer.cs">

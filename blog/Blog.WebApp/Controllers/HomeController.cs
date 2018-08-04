@@ -14,17 +14,9 @@ namespace Blog.WebApp.Controllers
         }
         public ActionResult Index()
         {
-            User user = new User
-            {
-                UserName = "张宇1"
-            };
-            bool b= _bll.Add(user);
-            List<User>list= _bll.GetUsers();
+            // 控制器向页面传递数据 渲染试图
+            ViewBag.Users= _bll.GetUsers();
             return View();
-            //HttpContext rq = System.Web.HttpContext.Current;
-            //ViewBag.Total=(int)rq.Application["OnLineCount"];
-            //ViewBag.Test = _bll.Get();
-            //return View();
         }
     }
 }

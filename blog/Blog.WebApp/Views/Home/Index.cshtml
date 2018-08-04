@@ -2,7 +2,7 @@
 @{
     Layout = null;
 }
-
+@using Blog.Entity
 <!DOCTYPE html>
 
 <html>
@@ -11,9 +11,16 @@
     <title>Index</title>
 </head>
 <body>
-    <div> 
-        <h1>@ViewBag.Test</h1>
-        <h2>@ViewBag.Total</h2>
+    <div>
+        <li>
+            @if (ViewBag.Users != null)
+            {
+                foreach (User item in ViewBag.Users)
+                {
+                    <ul>@item.UserName</ul>
+                }
+            }
+        </li>
     </div>
 </body>
 </html>
