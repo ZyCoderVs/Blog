@@ -3,7 +3,8 @@ using System.Web.Mvc;
 
 namespace Blog.WebApp.Controllers
 {
-    [ExceptionFilters(View ="")]
+    [ExceptionFilters(View ="Error")]
+    [SecurityActionFilter]
     public class BaseController: Controller
     {
     }

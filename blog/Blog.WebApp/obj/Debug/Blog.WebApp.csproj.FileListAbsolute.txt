@@ -269,3 +269,12 @@ F:\Blog\blog\blog\Blog\Blog.WebApp\bin\zh-Hans\System.Web.Webpages.Razor.resourc
 F:\Blog\blog\blog\Blog\Blog.WebApp\bin\zh-Hans\System.Web.Helpers.resources.dll
 F:\Blog\blog\blog\Blog\Blog.WebApp\bin\zh-Hans\System.Web.Mvc.resources.dll
 F:\Blog\blog\blog\Blog\Blog.WebApp\obj\Debug\Blog.WebApp.csproj.CopyComplete
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\Autofac.Integration.Mvc.dll
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\EntityFramework.dll
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\Blog.DataAccess.dll.config
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\Autofac.Integration.Mvc.xml
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\EntityFramework.xml
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\zh-Hans\EntityFramework.resources.dll
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\EntityFramework.SqlServer.dll
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\EntityFramework.SqlServer.xml
+F:\zyCoder\Blog\blog\Blog.WebApp\bin\zh-Hans\EntityFramework.SqlServer.resources.dll

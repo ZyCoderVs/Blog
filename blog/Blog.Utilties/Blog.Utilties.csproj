@@ -34,6 +34,7 @@
       <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
     </Reference>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Web" />
     <Reference Include="System.Web.Mvc, Version=4.0.0.1, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL" />
@@ -45,6 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Blog.Common\CommonHelper.cs" />
+    <Compile Include="Blog.Common\ConfigHelper.cs" />
+    <Compile Include="Blog.Common\JqGridParam.cs" />
     <Compile Include="Blog.Filters\ExceptionFilters.cs" />
     <Compile Include="Blog.Filters\SecurityActionFilter.cs" />
     <Compile Include="Blog.Log\LogFactory.cs" />

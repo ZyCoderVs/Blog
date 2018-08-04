@@ -40,14 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\BaseBLL.cs" />
     <Compile Include="BLL\TestBLL.cs" />
+    <Compile Include="BLL\UserBLL.cs" />
+    <Compile Include="IBLL\IBaseBLL.cs" />
     <Compile Include="IBLL\ITestBLL.cs" />
+    <Compile Include="IBLL\IUserBLL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Blog.DataAccess\Blog.DataAccess.csproj">
       <Project>{845C86E3-FE18-4F47-BCF7-C415F6CA3D23}</Project>
       <Name>Blog.DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Blog.Entity\Blog.Entity.csproj">
+      <Project>{3F1EEC43-20F5-454D-B35D-F51D63340A7D}</Project>
+      <Name>Blog.Entity</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

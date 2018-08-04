@@ -17,3 +17,9 @@ F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.csproj.CoreCompileI
 F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.csproj.CopyComplete
 F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.dll
 F:\Blog\blog\blog\Blog\Blog.Utilties\obj\Debug\Blog.Utilties.pdb
+F:\zyCoder\Blog\blog\Blog.Utilties\bin\Debug\System.Web.Mvc.dll
+F:\zyCoder\Blog\blog\Blog.Utilties\bin\Debug\System.Web.Razor.dll
+F:\zyCoder\Blog\blog\Blog.Utilties\bin\Debug\System.Web.WebPages.Razor.dll
+F:\zyCoder\Blog\blog\Blog.Utilties\bin\Debug\System.Web.WebPages.dll
+F:\zyCoder\Blog\blog\Blog.Utilties\bin\Debug\Microsoft.Web.Infrastructure.dll
+F:\zyCoder\Blog\blog\Blog.Utilties\bin\Debug\System.Web.WebPages.Deployment.dll

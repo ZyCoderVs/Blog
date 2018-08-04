@@ -10,3 +10,15 @@ G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csprojAssemblyRefere
 G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csproj.CoreCompileInputs.cache
 G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.dll
 G:\blog\blog\Blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.pdb
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\Blog.DataAccess.dll.config
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\Blog.Entity.dll
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\EntityFramework.dll
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\Blog.Entity.pdb
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\EntityFramework.xml
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\zyCoder\Blog\blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csproj.CopyComplete
+F:\zyCoder\Blog\blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.Migrations.init.resources
+F:\zyCoder\Blog\blog\Blog.DataAccess\obj\Debug\Blog.DataAccess.csproj.GenerateResource.cache
+F:\zyCoder\Blog\blog\Blog.DataAccess\bin\Debug\zh-Hans\EntityFramework.SqlServer.resources.dll

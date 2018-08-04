@@ -1,0 +1,2 @@
+2018-08-02 19:18:41,393 [7] ERROR Blog.WebApp.Controllers.HomeController - 321
+2018-08-02 20:58:42,460 [33] ERROR Blog.Utilties.Blog.Filters.ExceptionFilters - exception:Home:Index

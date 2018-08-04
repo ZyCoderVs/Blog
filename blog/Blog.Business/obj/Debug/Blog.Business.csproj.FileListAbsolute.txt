@@ -13,3 +13,12 @@ G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.csproj.CoreCompileInputs
 G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.csproj.CopyComplete
 G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.dll
 G:\blog\blog\Blog\Blog.Business\obj\Debug\Blog.Business.pdb
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\Blog.DataAccess.dll
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\EntityFramework.dll
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\Blog.Entity.dll
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\Blog.DataAccess.pdb
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\Blog.DataAccess.dll.config
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\EntityFramework.xml
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\Blog.Entity.pdb
+F:\zyCoder\Blog\blog\Blog.Business\bin\Debug\zh-Hans\EntityFramework.resources.dll
+F:\zyCoder\Blog\blog\Blog.Business\obj\Debug\Blog.Business.csproj.CopyComplete
