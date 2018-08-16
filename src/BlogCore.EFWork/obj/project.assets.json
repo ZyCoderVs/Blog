@@ -4000,11 +4000,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ning\\BlogCore\\BlogCore\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
+      "projectUniqueName": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
       "projectName": "BlogCore.EFWork",
-      "projectPath": "F:\\ning\\BlogCore\\BlogCore\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
+      "projectPath": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
       "packagesPath": "C:\\Users\\10568\\.nuget\\packages\\",
-      "outputPath": "F:\\ning\\BlogCore\\BlogCore\\src\\BlogCore.EFWork\\obj\\",
+      "outputPath": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

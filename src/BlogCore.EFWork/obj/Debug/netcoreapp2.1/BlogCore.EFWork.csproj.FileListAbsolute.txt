@@ -7,3 +7,12 @@ F:\ning\BlogCore\BlogCore\src\BlogCore.EFWork\bin\Debug\netcoreapp2.1\BlogCore.E
 F:\ning\BlogCore\BlogCore\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.dll
 F:\ning\BlogCore\BlogCore\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.pdb
 F:\ning\BlogCore\BlogCore\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.csprojAssemblyReference.cache
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\bin\Debug\netcoreapp2.1\BlogCore.EFWork.deps.json
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\bin\Debug\netcoreapp2.1\BlogCore.EFWork.dll
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\bin\Debug\netcoreapp2.1\BlogCore.EFWork.pdb
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.csprojAssemblyReference.cache
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.csproj.CoreCompileInputs.cache
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.AssemblyInfoInputs.cache
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.AssemblyInfo.cs
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.dll
+F:\ning\BlogCore\Blog\src\BlogCore.EFWork\obj\Debug\netcoreapp2.1\BlogCore.EFWork.pdb

@@ -4018,11 +4018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ning\\BlogCore\\BlogCore\\src\\Blog.Console\\Blog.Console.csproj",
+      "projectUniqueName": "F:\\ning\\BlogCore\\Blog\\src\\Blog.Console\\Blog.Console.csproj",
       "projectName": "Blog.Console",
-      "projectPath": "F:\\ning\\BlogCore\\BlogCore\\src\\Blog.Console\\Blog.Console.csproj",
+      "projectPath": "F:\\ning\\BlogCore\\Blog\\src\\Blog.Console\\Blog.Console.csproj",
       "packagesPath": "C:\\Users\\10568\\.nuget\\packages\\",
-      "outputPath": "F:\\ning\\BlogCore\\BlogCore\\src\\Blog.Console\\obj\\",
+      "outputPath": "F:\\ning\\BlogCore\\Blog\\src\\Blog.Console\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4041,8 +4041,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\ning\\BlogCore\\BlogCore\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj": {
-              "projectPath": "F:\\ning\\BlogCore\\BlogCore\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj"
+            "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj": {
+              "projectPath": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj"
             }
           }
         }
