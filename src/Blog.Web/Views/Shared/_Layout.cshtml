@@ -1,0 +1,50 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Blog.Web</title>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+    <link href="~/css/ie10-viewport-bug-workaround.css" rel="stylesheet" />
+    <link href="~/css/blog.css" rel="stylesheet" />
+    <script src="~/js/ie-emulation-modes-warning.js"></script>
+</head>
+<body>
+    <div class="blog-masthead">
+        @* 导航 *@
+        @await Component.InvokeAsync("Nav", new { })
+    </div>
+
+    <div class="container">
+
+        @* 内容 *@
+        @RenderBody()
+
+
+    </div>
+
+    <footer class="blog-footer">
+        <p>Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">123</a>.</p>
+        <p>
+            <a href="#">Back to top</a>
+        </p>
+    </footer>
+
+
+    <script src="~/lib/jquery/dist/jquery3.3.1.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+    <script src="~/js/ie10-viewport-bug-workaround.js"></script>
+    <script type="text/javascript">
+        $.each($(".blog-nav").children("a"), function (i, v) {
+            if ($(v).attr("href") == window.location.pathname) {
+                $(v).addClass("active");
+            } else { 
+                $(v).removeClass("active");
+            }
+        })
+    </script>
+
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

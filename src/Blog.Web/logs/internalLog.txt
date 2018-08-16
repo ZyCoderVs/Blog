@@ -1,0 +1,844 @@
+2018-08-16 10:58:06.8675 Info Message Template Auto Format enabled
+2018-08-16 10:58:06.8861 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.WebHost by level:
+2018-08-16 10:58:06.8861 Debug Trace =>
+2018-08-16 10:58:06.8861 Debug Debug =>
+2018-08-16 10:58:06.8861 Debug Info =>
+2018-08-16 10:58:06.8861 Debug Warn =>
+2018-08-16 10:58:06.8861 Debug Error =>
+2018-08-16 10:58:06.8861 Debug Fatal =>
+2018-08-16 10:58:06.8861 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.ApplicationLifetime by level:
+2018-08-16 10:58:06.8861 Debug Trace =>
+2018-08-16 10:58:06.8861 Debug Debug =>
+2018-08-16 10:58:06.8921 Debug Info =>
+2018-08-16 10:58:06.8921 Debug Warn =>
+2018-08-16 10:58:06.8921 Debug Error =>
+2018-08-16 10:58:06.8921 Debug Fatal =>
+2018-08-16 10:58:06.8921 Debug Targets for Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets by level:
+2018-08-16 10:58:06.8921 Debug Trace =>
+2018-08-16 10:58:06.8921 Debug Debug =>
+2018-08-16 10:58:06.8921 Debug Info =>
+2018-08-16 10:58:06.8921 Debug Warn =>
+2018-08-16 10:58:06.8921 Debug Error =>
+2018-08-16 10:58:06.8921 Debug Fatal =>
+2018-08-16 10:58:06.8921 Debug Targets for Microsoft.AspNetCore.Server.Kestrel by level:
+2018-08-16 10:58:06.8921 Debug Trace =>
+2018-08-16 10:58:06.8921 Debug Debug =>
+2018-08-16 10:58:06.8921 Debug Info =>
+2018-08-16 10:58:06.8921 Debug Warn =>
+2018-08-16 10:58:06.8921 Debug Error =>
+2018-08-16 10:58:06.8921 Debug Fatal =>
+2018-08-16 10:58:06.8921 Debug Targets for Microsoft.AspNetCore.DataProtection.TypeForwardingActivator by level:
+2018-08-16 10:58:06.8921 Debug Trace =>
+2018-08-16 10:58:06.8921 Debug Debug =>
+2018-08-16 10:58:06.8921 Debug Info =>
+2018-08-16 10:58:06.8921 Debug Warn =>
+2018-08-16 10:58:06.8921 Debug Error =>
+2018-08-16 10:58:06.8921 Debug Fatal =>
+2018-08-16 10:58:06.8921 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager by level:
+2018-08-16 10:58:06.8921 Debug Trace =>
+2018-08-16 10:58:06.8921 Debug Debug =>
+2018-08-16 10:58:06.8921 Debug Info =>
+2018-08-16 10:58:06.8921 Debug Warn =>
+2018-08-16 10:58:06.8921 Debug Error =>
+2018-08-16 10:58:06.8921 Debug Fatal =>
+2018-08-16 10:58:06.8921 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngGcmAuthenticatedEncryptorFactory by level:
+2018-08-16 10:58:06.8921 Debug Trace =>
+2018-08-16 10:58:06.8921 Debug Debug =>
+2018-08-16 10:58:06.8921 Debug Info =>
+2018-08-16 10:58:06.8921 Debug Warn =>
+2018-08-16 10:58:06.8921 Debug Error =>
+2018-08-16 10:58:06.8921 Debug Fatal =>
+2018-08-16 10:58:06.8921 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory by level:
+2018-08-16 10:58:06.9081 Debug Trace =>
+2018-08-16 10:58:06.9081 Debug Debug =>
+2018-08-16 10:58:06.9081 Debug Info =>
+2018-08-16 10:58:06.9081 Debug Warn =>
+2018-08-16 10:58:06.9081 Debug Error =>
+2018-08-16 10:58:06.9081 Debug Fatal =>
+2018-08-16 10:58:06.9081 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ManagedAuthenticatedEncryptorFactory by level:
+2018-08-16 10:58:06.9081 Debug Trace =>
+2018-08-16 10:58:06.9081 Debug Debug =>
+2018-08-16 10:58:06.9081 Debug Info =>
+2018-08-16 10:58:06.9081 Debug Warn =>
+2018-08-16 10:58:06.9081 Debug Error =>
+2018-08-16 10:58:06.9081 Debug Fatal =>
+2018-08-16 10:58:06.9081 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlEncryptor by level:
+2018-08-16 10:58:06.9081 Debug Trace =>
+2018-08-16 10:58:06.9081 Debug Debug =>
+2018-08-16 10:58:06.9081 Debug Info =>
+2018-08-16 10:58:06.9081 Debug Warn =>
+2018-08-16 10:58:06.9081 Debug Error =>
+2018-08-16 10:58:06.9081 Debug Fatal =>
+2018-08-16 10:58:06.9081 Debug Targets for Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository by level:
+2018-08-16 10:58:06.9081 Debug Trace =>
+2018-08-16 10:58:06.9081 Debug Debug =>
+2018-08-16 10:58:06.9081 Debug Info =>
+2018-08-16 10:58:06.9081 Debug Warn =>
+2018-08-16 10:58:06.9081 Debug Error =>
+2018-08-16 10:58:06.9081 Debug Fatal =>
+2018-08-16 10:58:06.9081 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver by level:
+2018-08-16 10:58:06.9081 Debug Trace =>
+2018-08-16 10:58:06.9081 Debug Debug =>
+2018-08-16 10:58:06.9081 Debug Info =>
+2018-08-16 10:58:06.9081 Debug Warn =>
+2018-08-16 10:58:06.9239 Debug Error =>
+2018-08-16 10:58:06.9239 Debug Fatal =>
+2018-08-16 10:58:06.9239 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider by level:
+2018-08-16 10:58:06.9239 Debug Trace =>
+2018-08-16 10:58:06.9239 Debug Debug =>
+2018-08-16 10:58:06.9239 Debug Info =>
+2018-08-16 10:58:06.9239 Debug Warn =>
+2018-08-16 10:58:06.9239 Debug Error =>
+2018-08-16 10:58:06.9239 Debug Fatal =>
+2018-08-16 10:58:06.9239 Debug Targets for Microsoft.AspNetCore.DataProtection.Internal.DataProtectionStartupFilter by level:
+2018-08-16 10:58:06.9239 Debug Trace =>
+2018-08-16 10:58:06.9239 Debug Debug =>
+2018-08-16 10:58:06.9239 Debug Info =>
+2018-08-16 10:58:06.9239 Debug Warn =>
+2018-08-16 10:58:06.9239 Debug Error =>
+2018-08-16 10:58:06.9239 Debug Fatal =>
+2018-08-16 10:58:06.9239 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor by level:
+2018-08-16 10:58:06.9239 Debug Trace =>
+2018-08-16 10:58:06.9239 Debug Debug =>
+2018-08-16 10:58:06.9239 Debug Info =>
+2018-08-16 10:58:06.9239 Debug Warn =>
+2018-08-16 10:58:06.9239 Debug Error =>
+2018-08-16 10:58:06.9239 Debug Fatal =>
+2018-08-16 10:58:06.9387 Debug Targets for Microsoft.AspNetCore.Mvc.MvcJsonOptions by level:
+2018-08-16 10:58:06.9387 Debug Trace =>
+2018-08-16 10:58:06.9387 Debug Debug =>
+2018-08-16 10:58:06.9387 Debug Info =>
+2018-08-16 10:58:06.9387 Debug Warn =>
+2018-08-16 10:58:06.9387 Debug Error =>
+2018-08-16 10:58:06.9387 Debug Fatal =>
+2018-08-16 10:58:06.9387 Debug Targets for Microsoft.AspNetCore.Mvc.MvcOptions by level:
+2018-08-16 10:58:06.9387 Debug Trace =>
+2018-08-16 10:58:06.9387 Debug Debug =>
+2018-08-16 10:58:06.9387 Debug Info =>
+2018-08-16 10:58:06.9387 Debug Warn =>
+2018-08-16 10:58:06.9387 Debug Error =>
+2018-08-16 10:58:06.9387 Debug Fatal =>
+2018-08-16 10:58:06.9387 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.JsonPatchInputFormatter by level:
+2018-08-16 10:58:06.9387 Debug Trace =>
+2018-08-16 10:58:06.9387 Debug Debug =>
+2018-08-16 10:58:06.9387 Debug Info =>
+2018-08-16 10:58:06.9387 Debug Warn =>
+2018-08-16 10:58:06.9387 Debug Error =>
+2018-08-16 10:58:06.9387 Debug Fatal =>
+2018-08-16 10:58:06.9549 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.JsonInputFormatter by level:
+2018-08-16 10:58:06.9549 Debug Trace =>
+2018-08-16 10:58:06.9549 Debug Debug =>
+2018-08-16 10:58:06.9549 Debug Info =>
+2018-08-16 10:58:06.9549 Debug Warn =>
+2018-08-16 10:58:06.9549 Debug Error =>
+2018-08-16 10:58:06.9549 Debug Fatal =>
+2018-08-16 10:58:06.9549 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ApiBehaviorApplicationModelProvider by level:
+2018-08-16 10:58:06.9549 Debug Trace =>
+2018-08-16 10:58:06.9549 Debug Debug =>
+2018-08-16 10:58:06.9549 Debug Info =>
+2018-08-16 10:58:06.9549 Debug Warn =>
+2018-08-16 10:58:06.9549 Debug Error =>
+2018-08-16 10:58:06.9549 Debug Fatal =>
+2018-08-16 10:58:06.9549 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter by level:
+2018-08-16 10:58:06.9549 Debug Trace =>
+2018-08-16 10:58:06.9549 Debug Debug =>
+2018-08-16 10:58:06.9549 Debug Info =>
+2018-08-16 10:58:06.9549 Debug Warn =>
+2018-08-16 10:58:06.9549 Debug Error =>
+2018-08-16 10:58:06.9549 Debug Fatal =>
+2018-08-16 10:58:06.9549 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.RazorPagesOptions by level:
+2018-08-16 10:58:06.9549 Debug Trace =>
+2018-08-16 10:58:06.9549 Debug Debug =>
+2018-08-16 10:58:06.9549 Debug Info =>
+2018-08-16 10:58:06.9549 Debug Warn =>
+2018-08-16 10:58:06.9549 Debug Error =>
+2018-08-16 10:58:06.9549 Debug Fatal =>
+2018-08-16 10:58:06.9549 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.Internal.RazorViewCompiler by level:
+2018-08-16 10:58:06.9549 Debug Trace =>
+2018-08-16 10:58:06.9549 Debug Debug =>
+2018-08-16 10:58:06.9549 Debug Info =>
+2018-08-16 10:58:06.9549 Debug Warn =>
+2018-08-16 10:58:06.9707 Debug Error =>
+2018-08-16 10:58:06.9707 Debug Fatal =>
+2018-08-16 10:58:06.9707 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine by level:
+2018-08-16 10:58:06.9707 Debug Trace =>
+2018-08-16 10:58:06.9707 Debug Debug =>
+2018-08-16 10:58:06.9707 Debug Info =>
+2018-08-16 10:58:06.9707 Debug Warn =>
+2018-08-16 10:58:06.9707 Debug Error =>
+2018-08-16 10:58:06.9707 Debug Fatal =>
+2018-08-16 10:58:06.9707 Debug Targets for Microsoft.AspNetCore.Mvc.MvcViewOptions by level:
+2018-08-16 10:58:06.9707 Debug Trace =>
+2018-08-16 10:58:06.9707 Debug Debug =>
+2018-08-16 10:58:06.9707 Debug Info =>
+2018-08-16 10:58:06.9707 Debug Warn =>
+2018-08-16 10:58:06.9707 Debug Error =>
+2018-08-16 10:58:06.9707 Debug Fatal =>
+2018-08-16 10:58:06.9707 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.RazorProjectPageRouteModelProvider by level:
+2018-08-16 10:58:06.9707 Debug Trace =>
+2018-08-16 10:58:06.9707 Debug Debug =>
+2018-08-16 10:58:06.9707 Debug Info =>
+2018-08-16 10:58:06.9707 Debug Warn =>
+2018-08-16 10:58:06.9707 Debug Error =>
+2018-08-16 10:58:06.9707 Debug Fatal =>
+2018-08-16 10:58:06.9707 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.CompiledPageRouteModelProvider by level:
+2018-08-16 10:58:06.9707 Debug Trace =>
+2018-08-16 10:58:06.9707 Debug Debug =>
+2018-08-16 10:58:06.9707 Debug Info =>
+2018-08-16 10:58:06.9707 Debug Warn =>
+2018-08-16 10:58:06.9707 Debug Error =>
+2018-08-16 10:58:06.9857 Debug Fatal =>
+2018-08-16 10:58:06.9857 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory by level:
+2018-08-16 10:58:06.9857 Debug Trace =>
+2018-08-16 10:58:06.9857 Debug Debug =>
+2018-08-16 10:58:06.9857 Debug Info =>
+2018-08-16 10:58:06.9857 Debug Warn =>
+2018-08-16 10:58:06.9857 Debug Error =>
+2018-08-16 10:58:06.9857 Debug Fatal =>
+2018-08-16 10:58:06.9857 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder by level:
+2018-08-16 10:58:06.9857 Debug Trace =>
+2018-08-16 10:58:06.9857 Debug Debug =>
+2018-08-16 10:58:06.9857 Debug Info =>
+2018-08-16 10:58:06.9857 Debug Warn =>
+2018-08-16 10:58:06.9857 Debug Error =>
+2018-08-16 10:58:06.9857 Debug Fatal =>
+2018-08-16 10:58:06.9857 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker by level:
+2018-08-16 10:58:06.9857 Debug Trace =>
+2018-08-16 10:58:06.9857 Debug Debug =>
+2018-08-16 10:58:06.9857 Debug Info =>
+2018-08-16 10:58:06.9857 Debug Warn =>
+2018-08-16 10:58:06.9857 Debug Error =>
+2018-08-16 10:58:06.9857 Debug Fatal =>
+2018-08-16 10:58:06.9857 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector by level:
+2018-08-16 10:58:06.9857 Debug Trace =>
+2018-08-16 10:58:06.9857 Debug Debug =>
+2018-08-16 10:58:06.9857 Debug Info =>
+2018-08-16 10:58:06.9857 Debug Warn =>
+2018-08-16 10:58:06.9857 Debug Error =>
+2018-08-16 10:58:06.9857 Debug Fatal =>
+2018-08-16 10:58:06.9857 Debug Targets for Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider by level:
+2018-08-16 10:58:06.9857 Debug Trace =>
+2018-08-16 10:58:07.0017 Debug Debug =>
+2018-08-16 10:58:07.0017 Debug Info =>
+2018-08-16 10:58:07.0017 Debug Warn =>
+2018-08-16 10:58:07.0017 Debug Error =>
+2018-08-16 10:58:07.0017 Debug Fatal =>
+2018-08-16 10:58:07.0017 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker by level:
+2018-08-16 10:58:07.0017 Debug Trace =>
+2018-08-16 10:58:07.0017 Debug Debug =>
+2018-08-16 10:58:07.0017 Debug Info =>
+2018-08-16 10:58:07.0017 Debug Warn =>
+2018-08-16 10:58:07.0017 Debug Error =>
+2018-08-16 10:58:07.0017 Debug Fatal =>
+2018-08-16 10:58:07.0017 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ActionSelector by level:
+2018-08-16 10:58:07.0017 Debug Trace =>
+2018-08-16 10:58:07.0017 Debug Debug =>
+2018-08-16 10:58:07.0017 Debug Info =>
+2018-08-16 10:58:07.0017 Debug Warn =>
+2018-08-16 10:58:07.0017 Debug Error =>
+2018-08-16 10:58:07.0017 Debug Fatal =>
+2018-08-16 10:58:07.0017 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.MvcRouteHandler by level:
+2018-08-16 10:58:07.0017 Debug Trace =>
+2018-08-16 10:58:07.0017 Debug Debug =>
+2018-08-16 10:58:07.0017 Debug Info =>
+2018-08-16 10:58:07.0017 Debug Warn =>
+2018-08-16 10:58:07.0017 Debug Error =>
+2018-08-16 10:58:07.0017 Debug Fatal =>
+2018-08-16 10:58:07.0017 Debug Targets for Microsoft.AspNetCore.Builder.RouterMiddleware by level:
+2018-08-16 10:58:07.0017 Debug Trace =>
+2018-08-16 10:58:07.0017 Debug Debug =>
+2018-08-16 10:58:07.0017 Debug Info =>
+2018-08-16 10:58:07.0017 Debug Warn =>
+2018-08-16 10:58:07.0017 Debug Error =>
+2018-08-16 10:58:07.0017 Debug Fatal =>
+2018-08-16 10:58:07.0304 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0343 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2018-08-16 10:58:07.0343 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2018-08-16 10:58:07.0343 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2018-08-16 10:58:07.0343 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0343 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.0343 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0343 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2018-08-16 10:58:07.0488 Trace  Scanning Property Culture '' System.Globalization
+2018-08-16 10:58:07.0488 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2018-08-16 10:58:07.0488 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2018-08-16 10:58:07.0488 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.0488 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.0488 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0488 Trace Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2018-08-16 10:58:07.0488 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0488 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2018-08-16 10:58:07.0689 Debug Setting 'FileTarget.name' to 't1'
+2018-08-16 10:58:07.0689 Debug Setting 'FileTarget.fileName' to '${basedir}/logs/${shortdate}.log'
+2018-08-16 10:58:07.0689 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0689 Trace Scanning BaseDirLayoutRenderer 'Layout Renderer: ${basedir}'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2018-08-16 10:58:07.0975 Debug Setting 'FileTarget.layout' to '${longdate} ${callsite} ${level}:${message} ${event-context:item=exception} ${stacktrace} ${event-context:item=stacktrace}'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning CallSiteLayoutRenderer 'Layout Renderer: ${callsite}'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2018-08-16 10:58:07.0975 Debug Setting 'EventContextLayoutRenderer.item' to 'exception'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning EventContextLayoutRenderer 'Layout Renderer: ${event-context}'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning StackTraceLayoutRenderer 'Layout Renderer: ${stacktrace}'
+2018-08-16 10:58:07.0975 Debug Setting 'EventContextLayoutRenderer.item' to 'stacktrace'
+2018-08-16 10:58:07.0975 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.0975 Trace Scanning EventContextLayoutRenderer 'Layout Renderer: ${event-context}'
+2018-08-16 10:58:07.1122 Info Adding target File Target[t1]
+2018-08-16 10:58:07.1122 Debug Registered target t1: NLog.Targets.FileTarget
+2018-08-16 10:58:07.1122 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.1122 Trace Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2018-08-16 10:58:07.1122 Debug Setting 'UppercaseLayoutRendererWrapper.uppercase' to 'true'
+2018-08-16 10:58:07.1122 Trace Wrapping LevelLayoutRenderer with UppercaseLayoutRendererWrapper
+2018-08-16 10:58:07.1122 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.1122 Trace Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.1122 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.1122 Trace Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2018-08-16 10:58:07.1122 Trace  Scanning Property Culture '' System.Globalization
+2018-08-16 10:58:07.1122 Trace  Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2018-08-16 10:58:07.1122 Trace  Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2018-08-16 10:58:07.1122 Trace   Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.1122 Trace   Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.1122 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.1122 Trace Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2018-08-16 10:58:07.1272 Trace FindReachableObject<NLog.Internal.IRenderable>:
+2018-08-16 10:58:07.1272 Trace Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2018-08-16 10:58:07.1272 Debug Setting 'NullTarget.name' to 'blackhole'
+2018-08-16 10:58:07.1272 Info Adding target Null Target[blackhole]
+2018-08-16 10:58:07.1272 Debug Registered target blackhole: NLog.Targets.NullTarget
+2018-08-16 10:58:07.1272 Trace ParseRulesElement
+2018-08-16 10:58:07.1272 Info Configured from an XML element in F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\NLog\nlog.config...
+2018-08-16 10:58:07.1466 Debug Unused target checking is started... Rule Count: 2, Target Count: 2
+2018-08-16 10:58:07.1466 Debug Unused target checking is completed. Total Rule Count: 2, Total Target Count: 2, Unused Target Count: 0
+2018-08-16 10:58:07.1665 Debug --- NLog configuration dump ---
+2018-08-16 10:58:07.1665 Debug Targets:
+2018-08-16 10:58:07.1665 Debug File Target[t1]
+2018-08-16 10:58:07.1665 Debug Null Target[blackhole]
+2018-08-16 10:58:07.1665 Debug Rules:
+2018-08-16 10:58:07.1665 Debug logNamePattern: (Microsoft.:StartsWith) levels: [ Trace Debug Info Warn Error Fatal ] appendTo: [ blackhole ]
+2018-08-16 10:58:07.1736 Debug logNamePattern: (:All) levels: [ Trace Debug Info Warn Error Fatal ] appendTo: [ t1 ]
+2018-08-16 10:58:07.1736 Debug --- End of NLog configuration dump ---
+2018-08-16 10:58:07.1736 Trace FindReachableObject<System.Object>:
+2018-08-16 10:58:07.1736 Trace Scanning LoggingRule 'logNamePattern: (Microsoft.:StartsWith) levels: [ Trace Debug Info Warn Error Fatal ] appendTo: [ blackhole ]'
+2018-08-16 10:58:07.1736 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic
+2018-08-16 10:58:07.1736 Trace  Scanning NullTarget 'Null Target[blackhole]'
+2018-08-16 10:58:07.1736 Trace   Scanning Property Layout ''${longdate}|${level:uppercase=true}|${logger}|${message}'' NLog.Layouts
+2018-08-16 10:58:07.1736 Trace   Scanning SimpleLayout ''${longdate}|${level:uppercase=true}|${logger}|${message}''
+2018-08-16 10:58:07.1736 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.1736 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2018-08-16 10:58:07.1736 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.1898 Trace    Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2018-08-16 10:58:07.1898 Trace     Scanning Property Culture '' System.Globalization
+2018-08-16 10:58:07.1898 Trace     Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2018-08-16 10:58:07.1898 Trace     Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2018-08-16 10:58:07.1898 Trace      Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.1898 Trace      Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.1898 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.1898 Trace    Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2018-08-16 10:58:07.1898 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.1898 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2018-08-16 10:58:07.1898 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic
+2018-08-16 10:58:07.1898 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic
+2018-08-16 10:58:07.1898 Trace  Scanning Property Levels 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LogLevel]' System.Collections.ObjectModel
+2018-08-16 10:58:07.1898 Trace Scanning LoggingRule 'logNamePattern: (:All) levels: [ Trace Debug Info Warn Error Fatal ] appendTo: [ t1 ]'
+2018-08-16 10:58:07.1898 Trace  Scanning Property Targets 'System.Collections.Generic.List`1[NLog.Targets.Target]' System.Collections.Generic
+2018-08-16 10:58:07.1898 Trace  Scanning FileTarget 'File Target[t1]'
+2018-08-16 10:58:07.2055 Trace   Scanning Property FileName ''${basedir}/logs/${shortdate}.log'' NLog.Layouts
+2018-08-16 10:58:07.2055 Trace   Scanning SimpleLayout ''${basedir}/logs/${shortdate}.log''
+2018-08-16 10:58:07.2055 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.2055 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2055 Trace    Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2018-08-16 10:58:07.2055 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2055 Trace   Scanning Property Layout ''${longdate} ${callsite} ${level}:${message} ${event-context:item=exception} ${stacktrace} ${event-context:item=stacktrace}'' NLog.Layouts
+2018-08-16 10:58:07.2055 Trace   Scanning SimpleLayout ''${longdate} ${callsite} ${level}:${message} ${event-context:item=exception} ${stacktrace} ${event-context:item=stacktrace}''
+2018-08-16 10:58:07.2055 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.2055 Trace    Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2018-08-16 10:58:07.2055 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2055 Trace    Scanning CallSiteLayoutRenderer 'Layout Renderer: ${callsite}'
+2018-08-16 10:58:07.2055 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2055 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.2055 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2055 Trace    Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2018-08-16 10:58:07.2203 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2203 Trace    Scanning EventContextLayoutRenderer 'Layout Renderer: ${event-context}'
+2018-08-16 10:58:07.2203 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2203 Trace    Scanning StackTraceLayoutRenderer 'Layout Renderer: ${stacktrace}'
+2018-08-16 10:58:07.2203 Trace    Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2203 Trace    Scanning EventContextLayoutRenderer 'Layout Renderer: ${event-context}'
+2018-08-16 10:58:07.2203 Trace   Scanning Property LineEnding 'Default' NLog.Targets
+2018-08-16 10:58:07.2203 Trace   Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2018-08-16 10:58:07.2203 Trace  Scanning Property ChildRules 'System.Collections.Generic.List`1[NLog.Config.LoggingRule]' System.Collections.Generic
+2018-08-16 10:58:07.2203 Trace  Scanning Property Filters 'System.Collections.Generic.List`1[NLog.Filters.Filter]' System.Collections.Generic
+2018-08-16 10:58:07.2203 Trace  Scanning Property Levels 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LogLevel]' System.Collections.ObjectModel
+2018-08-16 10:58:07.2203 Info Found 32 configuration items
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${event-context}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${stacktrace}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${event-context}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${message}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${level}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${callsite}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2360 Trace Initializing Layout Renderer: ${longdate}
+2018-08-16 10:58:07.2360 Trace Initializing '${longdate} ${callsite} ${level}:${message} ${event-context:item=exception} ${stacktrace} ${event-context:item=stacktrace}'
+2018-08-16 10:58:07.2523 Trace FindReachableObject<System.Object>:
+2018-08-16 10:58:07.2523 Trace Scanning SimpleLayout ''${longdate} ${callsite} ${level}:${message} ${event-context:item=exception} ${stacktrace} ${event-context:item=stacktrace}''
+2018-08-16 10:58:07.2523 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.2523 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2018-08-16 10:58:07.2523 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2523 Trace  Scanning CallSiteLayoutRenderer 'Layout Renderer: ${callsite}'
+2018-08-16 10:58:07.2523 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2523 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.2523 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2523 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2018-08-16 10:58:07.2523 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2523 Trace  Scanning EventContextLayoutRenderer 'Layout Renderer: ${event-context}'
+2018-08-16 10:58:07.2523 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2523 Trace  Scanning StackTraceLayoutRenderer 'Layout Renderer: ${stacktrace}'
+2018-08-16 10:58:07.2523 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2523 Trace  Scanning EventContextLayoutRenderer 'Layout Renderer: ${event-context}'
+2018-08-16 10:58:07.2709 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2709 Trace Initializing Layout Renderer: ${shortdate}
+2018-08-16 10:58:07.2709 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2709 Trace Initializing '${basedir}/logs/${shortdate}.log'
+2018-08-16 10:58:07.2709 Trace FindReachableObject<System.Object>:
+2018-08-16 10:58:07.2709 Trace Scanning SimpleLayout ''${basedir}/logs/${shortdate}.log''
+2018-08-16 10:58:07.2709 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.2709 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2709 Trace  Scanning ShortDateLayoutRenderer 'Layout Renderer: ${shortdate}'
+2018-08-16 10:58:07.2709 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.2830 Trace Initializing File Target[t1]
+2018-08-16 10:58:07.2830 Trace FindReachableObject<NLog.Layouts.Layout>:
+2018-08-16 10:58:07.2830 Trace Scanning FileTarget 'File Target[t1]'
+2018-08-16 10:58:07.2830 Trace  Scanning Property FileName ''${basedir}/logs/${shortdate}.log'' NLog.Layouts
+2018-08-16 10:58:07.2830 Trace  Scanning SimpleLayout ''${basedir}/logs/${shortdate}.log''
+2018-08-16 10:58:07.2830 Trace  Scanning Property Layout ''${longdate} ${callsite} ${level}:${message} ${event-context:item=exception} ${stacktrace} ${event-context:item=stacktrace}'' NLog.Layouts
+2018-08-16 10:58:07.2830 Trace  Scanning SimpleLayout ''${longdate} ${callsite} ${level}:${message} ${event-context:item=exception} ${stacktrace} ${event-context:item=stacktrace}''
+2018-08-16 10:58:07.2830 Trace  Scanning Property LineEnding 'Default' NLog.Targets
+2018-08-16 10:58:07.2830 Trace  Scanning Property Encoding 'System.Text.UTF8Encoding+UTF8EncodingSealed' System.Text
+2018-08-16 10:58:07.2830 Trace File Target[t1] has 2 layouts
+2018-08-16 10:58:07.2988 Trace FileTarget(Name=t1): Using appenderFactory: NLog.Internal.FileAppenders.RetryingMultiProcessFileAppender+Factory
+2018-08-16 10:58:07.2988 Trace Initializing Layout Renderer: ${message}
+2018-08-16 10:58:07.2988 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2988 Trace Initializing Layout Renderer: ${logger}
+2018-08-16 10:58:07.2988 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.2988 Trace Initializing Layout Renderer: ${level}
+2018-08-16 10:58:07.2988 Trace Initializing SimpleLayout=Layout Renderer: ${level}
+2018-08-16 10:58:07.2988 Trace FindReachableObject<System.Object>:
+2018-08-16 10:58:07.2988 Trace Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2018-08-16 10:58:07.2988 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.2988 Trace  Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.2988 Trace Initializing Layout Renderer: ${uppercase}
+2018-08-16 10:58:07.3137 Trace Initializing Layout Renderer: ${literal}
+2018-08-16 10:58:07.3137 Trace Initializing Layout Renderer: ${longdate}
+2018-08-16 10:58:07.3137 Trace Initializing '${longdate}|${level:uppercase=true}|${logger}|${message}'
+2018-08-16 10:58:07.3137 Trace FindReachableObject<System.Object>:
+2018-08-16 10:58:07.3137 Trace Scanning SimpleLayout ''${longdate}|${level:uppercase=true}|${logger}|${message}''
+2018-08-16 10:58:07.3137 Trace  Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.3137 Trace  Scanning LongDateLayoutRenderer 'Layout Renderer: ${longdate}'
+2018-08-16 10:58:07.3137 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.3137 Trace  Scanning UppercaseLayoutRendererWrapper 'Layout Renderer: ${uppercase}'
+2018-08-16 10:58:07.3137 Trace   Scanning Property Culture '' System.Globalization
+2018-08-16 10:58:07.3137 Trace   Scanning Property Inner 'SimpleLayout=Layout Renderer: ${level}' NLog.Layouts
+2018-08-16 10:58:07.3137 Trace   Scanning SimpleLayout 'SimpleLayout=Layout Renderer: ${level}'
+2018-08-16 10:58:07.3137 Trace    Scanning Property Renderers 'System.Collections.ObjectModel.ReadOnlyCollection`1[NLog.LayoutRenderers.LayoutRenderer]' System.Collections.ObjectModel
+2018-08-16 10:58:07.3137 Trace    Scanning LevelLayoutRenderer 'Layout Renderer: ${level}'
+2018-08-16 10:58:07.3137 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.3137 Trace  Scanning LoggerNameLayoutRenderer 'Layout Renderer: ${logger}'
+2018-08-16 10:58:07.3137 Trace  Scanning LiteralLayoutRenderer 'Layout Renderer: ${literal}'
+2018-08-16 10:58:07.3137 Trace  Scanning MessageLayoutRenderer 'Layout Renderer: ${message}'
+2018-08-16 10:58:07.3137 Trace Initializing Null Target[blackhole]
+2018-08-16 10:58:07.3137 Trace FindReachableObject<NLog.Layouts.Layout>:
+2018-08-16 10:58:07.3137 Trace Scanning NullTarget 'Null Target[blackhole]'
+2018-08-16 10:58:07.3137 Trace  Scanning Property Layout ''${longdate}|${level:uppercase=true}|${logger}|${message}'' NLog.Layouts
+2018-08-16 10:58:07.3137 Trace  Scanning SimpleLayout ''${longdate}|${level:uppercase=true}|${logger}|${message}''
+2018-08-16 10:58:07.3137 Trace Null Target[blackhole] has 1 layouts
+2018-08-16 10:58:07.3137 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.WebHost by level:
+2018-08-16 10:58:07.3303 Debug Trace => blackhole
+2018-08-16 10:58:07.3303 Debug Debug => blackhole
+2018-08-16 10:58:07.3303 Debug Info => blackhole
+2018-08-16 10:58:07.3303 Debug Warn => blackhole
+2018-08-16 10:58:07.3303 Debug Error => blackhole
+2018-08-16 10:58:07.3303 Debug Fatal => blackhole
+2018-08-16 10:58:07.3303 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.ApplicationLifetime by level:
+2018-08-16 10:58:07.3303 Debug Trace => blackhole
+2018-08-16 10:58:07.3303 Debug Debug => blackhole
+2018-08-16 10:58:07.3303 Debug Info => blackhole
+2018-08-16 10:58:07.3303 Debug Warn => blackhole
+2018-08-16 10:58:07.3303 Debug Error => blackhole
+2018-08-16 10:58:07.3303 Debug Fatal => blackhole
+2018-08-16 10:58:07.3303 Debug Targets for Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets by level:
+2018-08-16 10:58:07.3303 Debug Trace => blackhole
+2018-08-16 10:58:07.3303 Debug Debug => blackhole
+2018-08-16 10:58:07.3303 Debug Info => blackhole
+2018-08-16 10:58:07.3303 Debug Warn => blackhole
+2018-08-16 10:58:07.3303 Debug Error => blackhole
+2018-08-16 10:58:07.3303 Debug Fatal => blackhole
+2018-08-16 10:58:07.3303 Debug Targets for Microsoft.AspNetCore.Server.Kestrel by level:
+2018-08-16 10:58:07.3303 Debug Trace => blackhole
+2018-08-16 10:58:07.3459 Debug Debug => blackhole
+2018-08-16 10:58:07.3459 Debug Info => blackhole
+2018-08-16 10:58:07.3459 Debug Warn => blackhole
+2018-08-16 10:58:07.3459 Debug Error => blackhole
+2018-08-16 10:58:07.3459 Debug Fatal => blackhole
+2018-08-16 10:58:07.3459 Debug Targets for Microsoft.AspNetCore.DataProtection.TypeForwardingActivator by level:
+2018-08-16 10:58:07.3459 Debug Trace => blackhole
+2018-08-16 10:58:07.3459 Debug Debug => blackhole
+2018-08-16 10:58:07.3459 Debug Info => blackhole
+2018-08-16 10:58:07.3459 Debug Warn => blackhole
+2018-08-16 10:58:07.3459 Debug Error => blackhole
+2018-08-16 10:58:07.3459 Debug Fatal => blackhole
+2018-08-16 10:58:07.3459 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager by level:
+2018-08-16 10:58:07.3459 Debug Trace => blackhole
+2018-08-16 10:58:07.3459 Debug Debug => blackhole
+2018-08-16 10:58:07.3459 Debug Info => blackhole
+2018-08-16 10:58:07.3459 Debug Warn => blackhole
+2018-08-16 10:58:07.3459 Debug Error => blackhole
+2018-08-16 10:58:07.3459 Debug Fatal => blackhole
+2018-08-16 10:58:07.3459 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngGcmAuthenticatedEncryptorFactory by level:
+2018-08-16 10:58:07.3459 Debug Trace => blackhole
+2018-08-16 10:58:07.3459 Debug Debug => blackhole
+2018-08-16 10:58:07.3459 Debug Info => blackhole
+2018-08-16 10:58:07.3459 Debug Warn => blackhole
+2018-08-16 10:58:07.3610 Debug Error => blackhole
+2018-08-16 10:58:07.3610 Debug Fatal => blackhole
+2018-08-16 10:58:07.3610 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory by level:
+2018-08-16 10:58:07.3610 Debug Trace => blackhole
+2018-08-16 10:58:07.3610 Debug Debug => blackhole
+2018-08-16 10:58:07.3610 Debug Info => blackhole
+2018-08-16 10:58:07.3610 Debug Warn => blackhole
+2018-08-16 10:58:07.3610 Debug Error => blackhole
+2018-08-16 10:58:07.3610 Debug Fatal => blackhole
+2018-08-16 10:58:07.3610 Debug Targets for Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ManagedAuthenticatedEncryptorFactory by level:
+2018-08-16 10:58:07.3610 Debug Trace => blackhole
+2018-08-16 10:58:07.3610 Debug Debug => blackhole
+2018-08-16 10:58:07.3868 Debug Info => blackhole
+2018-08-16 10:58:07.3868 Debug Warn => blackhole
+2018-08-16 10:58:07.3868 Debug Error => blackhole
+2018-08-16 10:58:07.3868 Debug Fatal => blackhole
+2018-08-16 10:58:07.3868 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlEncryptor by level:
+2018-08-16 10:58:07.3868 Debug Trace => blackhole
+2018-08-16 10:58:07.3868 Debug Debug => blackhole
+2018-08-16 10:58:07.3868 Debug Info => blackhole
+2018-08-16 10:58:07.3868 Debug Warn => blackhole
+2018-08-16 10:58:07.3868 Debug Error => blackhole
+2018-08-16 10:58:07.3925 Debug Fatal => blackhole
+2018-08-16 10:58:07.3925 Debug Targets for Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository by level:
+2018-08-16 10:58:07.3925 Debug Trace => blackhole
+2018-08-16 10:58:07.3925 Debug Debug => blackhole
+2018-08-16 10:58:07.3925 Debug Info => blackhole
+2018-08-16 10:58:07.3925 Debug Warn => blackhole
+2018-08-16 10:58:07.3925 Debug Error => blackhole
+2018-08-16 10:58:07.3925 Debug Fatal => blackhole
+2018-08-16 10:58:07.3925 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver by level:
+2018-08-16 10:58:07.3925 Debug Trace => blackhole
+2018-08-16 10:58:07.3925 Debug Debug => blackhole
+2018-08-16 10:58:07.3925 Debug Info => blackhole
+2018-08-16 10:58:07.3925 Debug Warn => blackhole
+2018-08-16 10:58:07.3925 Debug Error => blackhole
+2018-08-16 10:58:07.3925 Debug Fatal => blackhole
+2018-08-16 10:58:07.3925 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider by level:
+2018-08-16 10:58:07.3925 Debug Trace => blackhole
+2018-08-16 10:58:07.3925 Debug Debug => blackhole
+2018-08-16 10:58:07.3925 Debug Info => blackhole
+2018-08-16 10:58:07.3925 Debug Warn => blackhole
+2018-08-16 10:58:07.3925 Debug Error => blackhole
+2018-08-16 10:58:07.3925 Debug Fatal => blackhole
+2018-08-16 10:58:07.4075 Debug Targets for Microsoft.AspNetCore.DataProtection.Internal.DataProtectionStartupFilter by level:
+2018-08-16 10:58:07.4075 Debug Trace => blackhole
+2018-08-16 10:58:07.4075 Debug Debug => blackhole
+2018-08-16 10:58:07.4075 Debug Info => blackhole
+2018-08-16 10:58:07.4075 Debug Warn => blackhole
+2018-08-16 10:58:07.4075 Debug Error => blackhole
+2018-08-16 10:58:07.4075 Debug Fatal => blackhole
+2018-08-16 10:58:07.4075 Debug Targets for Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor by level:
+2018-08-16 10:58:07.4075 Debug Trace => blackhole
+2018-08-16 10:58:07.4075 Debug Debug => blackhole
+2018-08-16 10:58:07.4075 Debug Info => blackhole
+2018-08-16 10:58:07.4075 Debug Warn => blackhole
+2018-08-16 10:58:07.4075 Debug Error => blackhole
+2018-08-16 10:58:07.4075 Debug Fatal => blackhole
+2018-08-16 10:58:07.4075 Debug Targets for Microsoft.AspNetCore.Mvc.MvcJsonOptions by level:
+2018-08-16 10:58:07.4075 Debug Trace => blackhole
+2018-08-16 10:58:07.4075 Debug Debug => blackhole
+2018-08-16 10:58:07.4075 Debug Info => blackhole
+2018-08-16 10:58:07.4075 Debug Warn => blackhole
+2018-08-16 10:58:07.4075 Debug Error => blackhole
+2018-08-16 10:58:07.4075 Debug Fatal => blackhole
+2018-08-16 10:58:07.4075 Debug Targets for Microsoft.AspNetCore.Mvc.MvcOptions by level:
+2018-08-16 10:58:07.4075 Debug Trace => blackhole
+2018-08-16 10:58:07.4075 Debug Debug => blackhole
+2018-08-16 10:58:07.4075 Debug Info => blackhole
+2018-08-16 10:58:07.4075 Debug Warn => blackhole
+2018-08-16 10:58:07.4075 Debug Error => blackhole
+2018-08-16 10:58:07.4075 Debug Fatal => blackhole
+2018-08-16 10:58:07.4075 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.JsonPatchInputFormatter by level:
+2018-08-16 10:58:07.4075 Debug Trace => blackhole
+2018-08-16 10:58:07.4075 Debug Debug => blackhole
+2018-08-16 10:58:07.4075 Debug Info => blackhole
+2018-08-16 10:58:07.4075 Debug Warn => blackhole
+2018-08-16 10:58:07.4075 Debug Error => blackhole
+2018-08-16 10:58:07.4238 Debug Fatal => blackhole
+2018-08-16 10:58:07.4238 Debug Targets for Microsoft.AspNetCore.Mvc.Formatters.JsonInputFormatter by level:
+2018-08-16 10:58:07.4238 Debug Trace => blackhole
+2018-08-16 10:58:07.4238 Debug Debug => blackhole
+2018-08-16 10:58:07.4238 Debug Info => blackhole
+2018-08-16 10:58:07.4238 Debug Warn => blackhole
+2018-08-16 10:58:07.4238 Debug Error => blackhole
+2018-08-16 10:58:07.4238 Debug Fatal => blackhole
+2018-08-16 10:58:07.4238 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ApiBehaviorApplicationModelProvider by level:
+2018-08-16 10:58:07.4238 Debug Trace => blackhole
+2018-08-16 10:58:07.4238 Debug Debug => blackhole
+2018-08-16 10:58:07.4238 Debug Info => blackhole
+2018-08-16 10:58:07.4238 Debug Warn => blackhole
+2018-08-16 10:58:07.4238 Debug Error => blackhole
+2018-08-16 10:58:07.4238 Debug Fatal => blackhole
+2018-08-16 10:58:07.4238 Debug Targets for Microsoft.AspNetCore.Mvc.Infrastructure.ModelStateInvalidFilter by level:
+2018-08-16 10:58:07.4238 Debug Trace => blackhole
+2018-08-16 10:58:07.4238 Debug Debug => blackhole
+2018-08-16 10:58:07.4238 Debug Info => blackhole
+2018-08-16 10:58:07.4238 Debug Warn => blackhole
+2018-08-16 10:58:07.4238 Debug Error => blackhole
+2018-08-16 10:58:07.4238 Debug Fatal => blackhole
+2018-08-16 10:58:07.4238 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.RazorPagesOptions by level:
+2018-08-16 10:58:07.4395 Debug Trace => blackhole
+2018-08-16 10:58:07.4395 Debug Debug => blackhole
+2018-08-16 10:58:07.4395 Debug Info => blackhole
+2018-08-16 10:58:07.4395 Debug Warn => blackhole
+2018-08-16 10:58:07.4395 Debug Error => blackhole
+2018-08-16 10:58:07.4395 Debug Fatal => blackhole
+2018-08-16 10:58:07.4395 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.Internal.RazorViewCompiler by level:
+2018-08-16 10:58:07.4395 Debug Trace => blackhole
+2018-08-16 10:58:07.4395 Debug Debug => blackhole
+2018-08-16 10:58:07.4395 Debug Info => blackhole
+2018-08-16 10:58:07.4395 Debug Warn => blackhole
+2018-08-16 10:58:07.4395 Debug Error => blackhole
+2018-08-16 10:58:07.4395 Debug Fatal => blackhole
+2018-08-16 10:58:07.4395 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine by level:
+2018-08-16 10:58:07.4395 Debug Trace => blackhole
+2018-08-16 10:58:07.4395 Debug Debug => blackhole
+2018-08-16 10:58:07.4395 Debug Info => blackhole
+2018-08-16 10:58:07.4395 Debug Warn => blackhole
+2018-08-16 10:58:07.4395 Debug Error => blackhole
+2018-08-16 10:58:07.4395 Debug Fatal => blackhole
+2018-08-16 10:58:07.4395 Debug Targets for Microsoft.AspNetCore.Mvc.MvcViewOptions by level:
+2018-08-16 10:58:07.4395 Debug Trace => blackhole
+2018-08-16 10:58:07.4395 Debug Debug => blackhole
+2018-08-16 10:58:07.4395 Debug Info => blackhole
+2018-08-16 10:58:07.4395 Debug Warn => blackhole
+2018-08-16 10:58:07.4395 Debug Error => blackhole
+2018-08-16 10:58:07.4395 Debug Fatal => blackhole
+2018-08-16 10:58:07.4395 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.RazorProjectPageRouteModelProvider by level:
+2018-08-16 10:58:07.4544 Debug Trace => blackhole
+2018-08-16 10:58:07.4544 Debug Debug => blackhole
+2018-08-16 10:58:07.4544 Debug Info => blackhole
+2018-08-16 10:58:07.4544 Debug Warn => blackhole
+2018-08-16 10:58:07.4544 Debug Error => blackhole
+2018-08-16 10:58:07.4544 Debug Fatal => blackhole
+2018-08-16 10:58:07.4544 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.CompiledPageRouteModelProvider by level:
+2018-08-16 10:58:07.4544 Debug Trace => blackhole
+2018-08-16 10:58:07.4544 Debug Debug => blackhole
+2018-08-16 10:58:07.4544 Debug Info => blackhole
+2018-08-16 10:58:07.4544 Debug Warn => blackhole
+2018-08-16 10:58:07.4544 Debug Error => blackhole
+2018-08-16 10:58:07.4544 Debug Fatal => blackhole
+2018-08-16 10:58:07.4544 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory by level:
+2018-08-16 10:58:07.4544 Debug Trace => blackhole
+2018-08-16 10:58:07.4544 Debug Debug => blackhole
+2018-08-16 10:58:07.4544 Debug Info => blackhole
+2018-08-16 10:58:07.4544 Debug Warn => blackhole
+2018-08-16 10:58:07.4544 Debug Error => blackhole
+2018-08-16 10:58:07.4544 Debug Fatal => blackhole
+2018-08-16 10:58:07.4544 Debug Targets for Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder by level:
+2018-08-16 10:58:07.4544 Debug Trace => blackhole
+2018-08-16 10:58:07.4544 Debug Debug => blackhole
+2018-08-16 10:58:07.4544 Debug Info => blackhole
+2018-08-16 10:58:07.4544 Debug Warn => blackhole
+2018-08-16 10:58:07.4544 Debug Error => blackhole
+2018-08-16 10:58:07.4544 Debug Fatal => blackhole
+2018-08-16 10:58:07.4544 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker by level:
+2018-08-16 10:58:07.4544 Debug Trace => blackhole
+2018-08-16 10:58:07.4544 Debug Debug => blackhole
+2018-08-16 10:58:07.4544 Debug Info => blackhole
+2018-08-16 10:58:07.4544 Debug Warn => blackhole
+2018-08-16 10:58:07.4544 Debug Error => blackhole
+2018-08-16 10:58:07.4544 Debug Fatal => blackhole
+2018-08-16 10:58:07.4544 Debug Targets for Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector by level:
+2018-08-16 10:58:07.4703 Debug Trace => blackhole
+2018-08-16 10:58:07.4703 Debug Debug => blackhole
+2018-08-16 10:58:07.4703 Debug Info => blackhole
+2018-08-16 10:58:07.4703 Debug Warn => blackhole
+2018-08-16 10:58:07.4703 Debug Error => blackhole
+2018-08-16 10:58:07.4703 Debug Fatal => blackhole
+2018-08-16 10:58:07.4703 Debug Targets for Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider by level:
+2018-08-16 10:58:07.4703 Debug Trace => blackhole
+2018-08-16 10:58:07.4703 Debug Debug => blackhole
+2018-08-16 10:58:07.4703 Debug Info => blackhole
+2018-08-16 10:58:07.4703 Debug Warn => blackhole
+2018-08-16 10:58:07.4703 Debug Error => blackhole
+2018-08-16 10:58:07.4703 Debug Fatal => blackhole
+2018-08-16 10:58:07.4703 Debug Targets for Microsoft.AspNetCore.Mvc.RazorPages.Internal.PageActionInvoker by level:
+2018-08-16 10:58:07.4703 Debug Trace => blackhole
+2018-08-16 10:58:07.4703 Debug Debug => blackhole
+2018-08-16 10:58:07.4703 Debug Info => blackhole
+2018-08-16 10:58:07.4703 Debug Warn => blackhole
+2018-08-16 10:58:07.4703 Debug Error => blackhole
+2018-08-16 10:58:07.4703 Debug Fatal => blackhole
+2018-08-16 10:58:07.4703 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.ActionSelector by level:
+2018-08-16 10:58:07.4703 Debug Trace => blackhole
+2018-08-16 10:58:07.4703 Debug Debug => blackhole
+2018-08-16 10:58:07.4703 Debug Info => blackhole
+2018-08-16 10:58:07.4703 Debug Warn => blackhole
+2018-08-16 10:58:07.4703 Debug Error => blackhole
+2018-08-16 10:58:07.4703 Debug Fatal => blackhole
+2018-08-16 10:58:07.4703 Debug Targets for Microsoft.AspNetCore.Mvc.Internal.MvcRouteHandler by level:
+2018-08-16 10:58:07.4703 Debug Trace => blackhole
+2018-08-16 10:58:07.4703 Debug Debug => blackhole
+2018-08-16 10:58:07.4703 Debug Info => blackhole
+2018-08-16 10:58:07.4862 Debug Warn => blackhole
+2018-08-16 10:58:07.4862 Debug Error => blackhole
+2018-08-16 10:58:07.4862 Debug Fatal => blackhole
+2018-08-16 10:58:07.4862 Debug Targets for Microsoft.AspNetCore.Builder.RouterMiddleware by level:
+2018-08-16 10:58:07.4862 Debug Trace => blackhole
+2018-08-16 10:58:07.4862 Debug Debug => blackhole
+2018-08-16 10:58:07.4862 Debug Info => blackhole
+2018-08-16 10:58:07.4862 Debug Warn => blackhole
+2018-08-16 10:58:07.4862 Debug Error => blackhole
+2018-08-16 10:58:07.4862 Debug Fatal => blackhole
+2018-08-16 10:58:07.5116 Debug Watching path 'F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\NLog' filter 'nlog.config' for changes.
+2018-08-16 10:58:07.5278 Debug Targets for BlogCore.EFWork.Infrastructure.LoggerMiddleware by level:
+2018-08-16 10:58:07.5278 Debug Trace => t1
+2018-08-16 10:58:07.5278 Debug Debug => t1
+2018-08-16 10:58:07.5278 Debug Info => t1
+2018-08-16 10:58:07.5278 Debug Warn => t1
+2018-08-16 10:58:07.5278 Debug Error => t1
+2018-08-16 10:58:07.5278 Debug Fatal => t1
+2018-08-16 10:58:07.5278 Debug Targets for Microsoft.AspNetCore.CookiePolicy.CookiePolicyMiddleware by level:
+2018-08-16 10:58:07.5335 Debug Trace => blackhole
+2018-08-16 10:58:07.5335 Debug Debug => blackhole
+2018-08-16 10:58:07.5335 Debug Info => blackhole
+2018-08-16 10:58:07.5335 Debug Warn => blackhole
+2018-08-16 10:58:07.5335 Debug Error => blackhole
+2018-08-16 10:58:07.5335 Debug Fatal => blackhole
+2018-08-16 10:58:07.5335 Debug Targets for Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware by level:
+2018-08-16 10:58:07.5335 Debug Trace => blackhole
+2018-08-16 10:58:07.5335 Debug Debug => blackhole
+2018-08-16 10:58:07.5335 Debug Info => blackhole
+2018-08-16 10:58:07.5335 Debug Warn => blackhole
+2018-08-16 10:58:07.5335 Debug Error => blackhole
+2018-08-16 10:58:07.5335 Debug Fatal => blackhole
+2018-08-16 10:58:07.5335 Debug Targets for Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware by level:
+2018-08-16 10:58:07.5335 Debug Trace => blackhole
+2018-08-16 10:58:07.5483 Debug Debug => blackhole
+2018-08-16 10:58:07.5483 Debug Info => blackhole
+2018-08-16 10:58:07.5483 Debug Warn => blackhole
+2018-08-16 10:58:07.5483 Debug Error => blackhole
+2018-08-16 10:58:07.5483 Debug Fatal => blackhole
+2018-08-16 10:58:07.5483 Debug Targets for Microsoft.AspNetCore.Server.IISIntegration.IISMiddleware by level:
+2018-08-16 10:58:07.5483 Debug Trace => blackhole
+2018-08-16 10:58:07.5483 Debug Debug => blackhole
+2018-08-16 10:58:07.5483 Debug Info => blackhole
+2018-08-16 10:58:07.5483 Debug Warn => blackhole
+2018-08-16 10:58:07.5483 Debug Error => blackhole
+2018-08-16 10:58:07.5483 Debug Fatal => blackhole
+2018-08-16 10:58:07.5647 Debug Targets for Microsoft.AspNetCore.HttpOverrides.ForwardedHeadersMiddleware by level:
+2018-08-16 10:58:07.5647 Debug Trace => blackhole
+2018-08-16 10:58:07.5647 Debug Debug => blackhole
+2018-08-16 10:58:07.5647 Debug Info => blackhole
+2018-08-16 10:58:07.5647 Debug Warn => blackhole
+2018-08-16 10:58:07.5647 Debug Error => blackhole
+2018-08-16 10:58:07.5647 Debug Fatal => blackhole
+2018-08-16 10:58:07.5647 Debug Targets for Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware by level:
+2018-08-16 10:58:07.5647 Debug Trace => blackhole
+2018-08-16 10:58:07.5647 Debug Debug => blackhole
+2018-08-16 10:58:07.5647 Debug Info => blackhole
+2018-08-16 10:58:07.5647 Debug Warn => blackhole
+2018-08-16 10:58:07.5647 Debug Error => blackhole
+2018-08-16 10:58:07.5647 Debug Fatal => blackhole
+2018-08-16 10:58:07.5647 Debug Targets for Microsoft.AspNetCore.Hosting.Internal.HostedServiceExecutor by level:
+2018-08-16 10:58:07.5647 Debug Trace => blackhole
+2018-08-16 10:58:07.5647 Debug Debug => blackhole
+2018-08-16 10:58:07.5647 Debug Info => blackhole
+2018-08-16 10:58:07.5647 Debug Warn => blackhole
+2018-08-16 10:58:07.5647 Debug Error => blackhole
+2018-08-16 10:58:07.5647 Debug Fatal => blackhole
+2018-08-16 10:58:07.5870 Debug Targets for Microsoft.AspNetCore.Server.Kestrel.Core.KestrelServer by level:
+2018-08-16 10:58:07.5870 Debug Trace => blackhole
+2018-08-16 10:58:07.5870 Debug Debug => blackhole
+2018-08-16 10:58:07.5870 Debug Info => blackhole
+2018-08-16 10:58:07.5870 Debug Warn => blackhole
+2018-08-16 10:58:07.5870 Debug Error => blackhole
+2018-08-16 10:58:07.5870 Debug Fatal => blackhole
+2018-08-16 10:58:08.0727 Debug FileTarget(Name=t1): Process file 'F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\logs\2018-08-16.log' on startup
+2018-08-16 10:58:08.0832 Debug Creating file appender: F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\logs\2018-08-16.log
+2018-08-16 10:58:08.0832 Trace Opening F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\logs\2018-08-16.log with allowFileSharedWriting=False
+2018-08-16 10:58:08.1006 Trace Opening F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\logs\2018-08-16.log with allowFileSharedWriting=False
+2018-08-16 10:58:08.1006 Trace Opening F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\logs\2018-08-16.log with allowFileSharedWriting=False
+2018-08-16 10:58:08.1006 Trace Opening F:\ning\BlogCore\BlogCore\src\Blog.Web\bin\Debug\netcoreapp2.1\logs\2018-08-16.log with allowFileSharedWriting=False
+2018-08-16 10:58:08.2153 Debug Targets for Microsoft.AspNetCore.Routing.Tree.TreeRouter by level:
+2018-08-16 10:58:08.2153 Debug Trace => blackhole
+2018-08-16 10:58:08.2153 Debug Debug => blackhole
+2018-08-16 10:58:08.2153 Debug Info => blackhole
+2018-08-16 10:58:08.2153 Debug Warn => blackhole
+2018-08-16 10:58:08.2153 Debug Error => blackhole
+2018-08-16 10:58:08.2153 Debug Fatal => blackhole
+2018-08-16 10:58:08.2153 Debug Targets for Microsoft.AspNetCore.Routing.RouteConstraintMatcher by level:
+2018-08-16 10:58:08.2153 Debug Trace => blackhole
+2018-08-16 10:58:08.2153 Debug Debug => blackhole
+2018-08-16 10:58:08.2153 Debug Info => blackhole
+2018-08-16 10:58:08.2206 Debug Warn => blackhole
+2018-08-16 10:58:08.2206 Debug Error => blackhole
+2018-08-16 10:58:08.2206 Debug Fatal => blackhole
+2018-08-16 10:58:08.2206 Debug Targets for Microsoft.AspNetCore.Routing.RouteBase by level:
+2018-08-16 10:58:08.2367 Debug Trace => blackhole
+2018-08-16 10:58:08.2367 Debug Debug => blackhole
+2018-08-16 10:58:08.2367 Debug Info => blackhole
+2018-08-16 10:58:08.2367 Debug Warn => blackhole
+2018-08-16 10:58:08.2367 Debug Error => blackhole
+2018-08-16 10:58:08.2367 Debug Fatal => blackhole
+2018-08-16 10:58:08.2990 Debug Targets for Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor by level:
+2018-08-16 10:58:08.2990 Debug Trace => blackhole
+2018-08-16 10:58:08.2990 Debug Debug => blackhole
+2018-08-16 10:58:08.2990 Debug Info => blackhole
+2018-08-16 10:58:08.2990 Debug Warn => blackhole
+2018-08-16 10:58:08.2990 Debug Error => blackhole
+2018-08-16 10:58:08.2990 Debug Fatal => blackhole
+2018-08-16 10:58:08.3452 Debug Targets for Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker by level:
+2018-08-16 10:58:08.3452 Debug Trace => blackhole
+2018-08-16 10:58:08.3452 Debug Debug => blackhole
+2018-08-16 10:58:08.3452 Debug Info => blackhole
+2018-08-16 10:58:08.3452 Debug Warn => blackhole
+2018-08-16 10:58:08.3452 Debug Error => blackhole
+2018-08-16 10:58:08.3452 Debug Fatal => blackhole
+2018-08-16 10:58:08.3452 Debug Targets for Microsoft.AspNetCore.Antiforgery.Internal.DefaultAntiforgery by level:
+2018-08-16 10:58:08.3452 Debug Trace => blackhole
+2018-08-16 10:58:08.3452 Debug Debug => blackhole
+2018-08-16 10:58:08.3452 Debug Info => blackhole
+2018-08-16 10:58:08.3452 Debug Warn => blackhole
+2018-08-16 10:58:08.3452 Debug Error => blackhole
+2018-08-16 10:58:08.3452 Debug Fatal => blackhole
+2018-08-16 10:58:08.4083 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.TagHelpers.HeadTagHelper by level:
+2018-08-16 10:58:08.4083 Debug Trace => blackhole
+2018-08-16 10:58:08.4083 Debug Debug => blackhole
+2018-08-16 10:58:08.4083 Debug Info => blackhole
+2018-08-16 10:58:08.4083 Debug Warn => blackhole
+2018-08-16 10:58:08.4083 Debug Error => blackhole
+2018-08-16 10:58:08.4083 Debug Fatal => blackhole
+2018-08-16 10:58:08.4267 Debug Targets for Microsoft.AspNetCore.Mvc.Razor.TagHelpers.BodyTagHelper by level:
+2018-08-16 10:58:08.4267 Debug Trace => blackhole
+2018-08-16 10:58:08.4267 Debug Debug => blackhole
+2018-08-16 10:58:08.4267 Debug Info => blackhole
+2018-08-16 10:58:08.4267 Debug Warn => blackhole
+2018-08-16 10:58:08.4267 Debug Error => blackhole
+2018-08-16 10:58:08.4267 Debug Fatal => blackhole
