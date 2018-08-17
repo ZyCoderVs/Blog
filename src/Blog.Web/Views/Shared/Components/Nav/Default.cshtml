@@ -1,13 +1,13 @@
 ﻿@using BlogCore.EFWork.Entity
 
 <div class="container">
-    <nav class="blog-nav">
+    <nav class="blog-nav" id="blog-nav">
         @if (ViewData["list"] != null)
         {
             <a class="blog-nav-item active" href="/Home/Index">首页</a>
             foreach (var item in (ViewData["list"] as List<Menus>))
             {
-                <a class="blog-nav-item" href="/home/index/@item.Id">@item.MenuName</a>
+                <a class="blog-nav-item" href="/home/index/@item.MenuName">@item.MenuName</a>
             }
         }
     </nav>

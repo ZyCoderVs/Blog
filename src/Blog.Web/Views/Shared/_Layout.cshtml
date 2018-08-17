@@ -24,9 +24,9 @@
     </div>
 
     <footer class="blog-footer">
-        <p>Blog template built for <a href="http://getbootstrap.com">Bootstrap</a> by <a href="https://twitter.com/mdo">123</a>.</p>
+        <p>This @Html.ActionLink("Sample Blog","Index","Home") is built by 张教主.</p>
         <p>
-            <a href="#">Back to top</a>
+            <a href="#blog-nav">Back to top</a>
         </p>
     </footer>
 
@@ -36,15 +36,13 @@
     <script src="~/js/ie10-viewport-bug-workaround.js"></script>
     <script type="text/javascript">
         $.each($(".blog-nav").children("a"), function (i, v) {
-            if ($(v).attr("href") == window.location.pathname) {
+            if (window.location.pathname.indexOf($(v).attr("href"))!=-1) {
                 $(v).addClass("active");
             } else { 
                 $(v).removeClass("active");
             }
         })
-    </script>
-
-
+    </script>   
     @RenderSection("Scripts", required: false)
 </body>
 </html>
