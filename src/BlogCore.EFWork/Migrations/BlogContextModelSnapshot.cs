@@ -29,13 +29,13 @@ namespace BlogCore.EFWork.Migrations
 
                     b.Property<DateTime?>("CreateTime");
 
-                    b.Property<int>("MenuId");
+                    b.Property<int?>("MenuId");
 
-                    b.Property<int>("TagId");
+                    b.Property<int?>("TagId");
 
                     b.Property<string>("Title");
 
-                    b.Property<int>("UserId");
+                    b.Property<int?>("UserId");
 
                     b.HasKey("Id");
 
@@ -58,6 +58,8 @@ namespace BlogCore.EFWork.Migrations
 
                     b.Property<int?>("IsDelete");
 
+                    b.Property<string>("MenuCode");
+
                     b.Property<string>("MenuDesc");
 
                     b.Property<string>("MenuName");
@@ -77,7 +79,7 @@ namespace BlogCore.EFWork.Migrations
 
                     b.Property<string>("TagName");
 
-                    b.Property<int>("UserId");
+                    b.Property<int?>("UserId");
 
                     b.HasKey("Id");
 
@@ -121,26 +123,22 @@ namespace BlogCore.EFWork.Migrations
                 {
                     b.HasOne("BlogCore.EFWork.Entity.Menus", "Menu")
                         .WithMany("Articles")
-                        .HasForeignKey("MenuId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("MenuId");
 
-                    b.HasOne("BlogCore.EFWork.Entity.Tag", "Tag")
+                    b.HasOne("BlogCore.EFWork.Entity.Tag")
                         .WithMany("Articles")
-                        .HasForeignKey("TagId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("TagId");
 
                     b.HasOne("BlogCore.EFWork.Entity.User", "User")
                         .WithMany("Articles")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("UserId");
                 });
 
             modelBuilder.Entity("BlogCore.EFWork.Entity.Tag", b =>
                 {
                     b.HasOne("BlogCore.EFWork.Entity.User", "User")
                         .WithMany("Tags")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .HasForeignKey("UserId");
                 });
 #pragma warning restore 612, 618
         }

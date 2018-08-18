@@ -1,0 +1,43 @@
+﻿@using BlogCore.EFWork.Entity
+@using BlogCore.EFWork.Model
+
+<style>
+    .select {
+        color:red
+    }
+</style>
+
+<div class="result-content">
+    @{
+        GridPage gridPage = ViewBag.Page;
+    }
+
+    <table class="result-tab" width="100%">
+        <tr>
+            <th>ID</th>
+            <th>标题</th>
+            <th>标识</th>
+            <th>创建时间</th>
+            <th>操作</th>
+        </tr>
+        @foreach (Menus item in ViewBag.List)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.MenuName </td>
+                <td>@item.MenuCode</td>
+                <td>@item.CreateTime</td>
+                <td>
+                    <a class="link-update" href="#" onclick="editMenu('@item.Id')">修改</a>
+                    <a class="link-del" onclick="deleteById('@item.Id')" href="#">删除</a>
+                </td>
+            </tr>
+        }
+    </table>
+    <div class="list-page">共 @gridPage.Records 条 共  @gridPage.Total 页 
+        @foreach (string item in ViewBag.PageList)
+        {
+            <a onclick="pageChange('@item')">@item</a>
+        }
+    </div>
+</div>

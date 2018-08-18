@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace BlogCore.EFWork.Repository
 {
-    public class BlogContext: DbContext
+    public class BlogContext : DbContext
     {
         public BlogContext() { }
 
@@ -15,10 +15,9 @@ namespace BlogCore.EFWork.Repository
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            if(!optionsBuilder.IsConfigured)
+            if (!optionsBuilder.IsConfigured)
             {
-                //optionsBuilder.UseSqlServer(ConfigHelper.GetValue("SqlServer"));
-                optionsBuilder.UseSqlServer("Data Source=DESKTOP-SKDDBOM;Initial Catalog=BlogsDb;Integrated Security=True");
+                optionsBuilder.UseSqlServer(ConfigHelper.GetValue("SqlServer"));
             }
         }
     }

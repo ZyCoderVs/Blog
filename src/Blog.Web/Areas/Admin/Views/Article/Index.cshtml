@@ -1,0 +1,92 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+@using BlogCore.EFWork.Entity
+<script type="text/javascript">
+    $(function () {
+        getData();
+    });
+
+    function getData() {
+        $.ajax({
+            url: "/Admin/Article/DocView",
+            data: { Page: $("#Page").val(), keyWord: $("#keyword").val(), menuId: $("#menuSelect option:selected").val()},
+            type: "post",
+            dataType: "text",
+            success: function (data) {
+                $("#resultDIV").html("");
+                $("#resultDIV").html(data);
+            }
+        });
+    }
+
+    function deleteById(id) {
+        $.post("/admin/article/artDelete", { id: id }, function (data) {
+            layer.alert(data.msg, {
+                icon: data.code
+            });
+            getData();
+        });
+    }
+
+    function editArt(id) {
+        artAdd(id);
+        getData();
+    }
+    function pageChange(p) {
+        $("#Page").val(p);
+        getData();
+    }
+</script>
+
+<div class="search-wrap">
+    <div class="search-content">
+        <form action="#" method="post">
+            <table class="search-tab">
+                <tr>
+                    <th width="120">选择分类:</th>
+                    <td>
+                        <select name="search-sort" id="menuSelect" onchange="getData()">
+                            <option value="">全部</option>
+                            @foreach (Menus item in ViewBag.MenuList)
+                            {
+                                <option value="@item.Id">@item.MenuName</option>
+                            }
+                        </select>
+                    </td>
+                    <th width="70">关键字:</th>
+                    <td><input class="common-text" placeholder="关键字" name="keywords" value="" id="keyword" type="text"></td>
+                    <td><input class="btn btn-primary btn2" name="sub" onclick="getData()" value="查询" type="button"></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+</div>
+<div class="result-wrap">
+    <form name="myform" id="myform" method="post">
+        <div class="result-title">
+            <div class="result-list">
+                <a href="#" onclick="artAdd()"><i class="icon-font"></i>新增文章</a>
+            </div>
+        </div>
+
+        <input type="hidden" id="Page" value="1" name="Page" />
+        <div id="resultDIV">
+
+        </div>
+    </form>
+</div>
+
+<script type="text/javascript">
+    function artAdd(id) {
+        layer.open({
+            type: 2,
+            shadeClose: true,
+            title: "文章添加/修改",
+            area: ["60%", "75%"],
+            content: '/Admin/Article/ArtForm/' + id
+        });
+    }   
+</script>

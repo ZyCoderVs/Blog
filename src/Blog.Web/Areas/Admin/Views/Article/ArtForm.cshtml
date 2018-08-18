@@ -1,0 +1,86 @@
+﻿
+@{
+    ViewData["Title"] = "ArtAdd";
+    Layout = "~/Areas/Admin/Views/Shared/_FrameLayout.cshtml";
+}
+@using BlogCore.EFWork.Entity
+@model BlogCore.EFWork.Entity.Article
+<script src="~/lib/ueditor/ueditor.config.js"></script>
+<script src="~/lib/ueditor/ueditor.all.js"></script>
+
+<input type="hidden" id="Id" name="Id" value="@Model?.Id" />
+<input type="hidden" id="UserId" name="UserId" value="@Model?.UserId" />
+<input type="hidden" id="CreateTime" name="CreateTime" value="@Model?.CreateTime" />
+<tbody>
+    <tr>
+        <th><i class="require-red">分类:</i></th>
+        <td>
+            <select name="search-sort" id="menuIds">
+                @foreach (Menus menus in ViewBag.Menus)
+                {
+                    <option value="@menus.Id">@menus.MenuName</option>
+                }
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <th><i class="require-red">标题:</i></th>
+        <td>
+            <input class="common-text required" id="artTitle" name="artTitle" size="50" value="@Model?.Title" type="text" />
+        </td>
+    </tr>
+    <tr>
+        <th>内容：</th>
+        <td>
+            <div id="container">
+
+            </div>
+        </td>
+    </tr>
+    <tr>
+        <th></th>
+        <td>
+            <input class="btn btn-primary btn6 mr10" onclick="saveArt()" value="提交" type="button" />
+        </td>
+    </tr>
+</tbody>
+
+
+
+<script type="text/javascript">
+    var ue = UE.getEditor('container', {
+        initialFrameHeight: 300,
+        autoHeightEnabled: true,
+        autoFloatEnabled: true
+    });
+    setTimeout(function () {
+        ue.setContent('@Html.Raw(Model?.Body)');
+    }, 500);
+
+    function saveArt() {
+        var model = {
+            Title: $("#artTitle").val(),
+            Body: ue.getContent(),
+            MenuId: $("#menuIds option:selected").val(),
+            Id: $("#Id").val(),
+            CreateTime: $("#CreateTime").val()
+        };
+        if (model.Title == "") {
+            layer.alert('请输入标题', {
+                icon: 0
+            });
+            return;
+        }
+        if (model.MenuId == "") {
+            layer.alert('请选择分类', {
+                icon: 0
+            });
+            return;
+        }
+        $.post("/Admin/Article/ArtAdd", model, function (data) {
+            layer.alert(data.msg, {
+                icon: data.code
+            });
+        });
+    }
+</script>

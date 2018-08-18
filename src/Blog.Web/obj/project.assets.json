@@ -4657,10 +4657,24 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "UEditor.Core/1.0.6": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore": "2.0.0",
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/UEditor.Core.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/UEditor.Core.dll": {}
+        }
+      },
       "BlogCore.EFWork/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
         "dependencies": {
+          "Microsoft.AspNetCore.Mvc": "2.1.1",
           "Microsoft.EntityFrameworkCore": "2.1.1",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.1.1",
           "Microsoft.Extensions.Configuration.Json": "2.1.1",
@@ -12354,6 +12368,17 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "UEditor.Core/1.0.6": {
+      "sha512": "pZfMSVeAGDAOFmN3yq6vsZTSv/ygmFa0ZqRvQrmIt2+wPQrHSyDW5KHjnJqNPWGCpuCdjzqpa8gHB8YJXcTOFQ==",
+      "type": "package",
+      "path": "ueditor.core/1.0.6",
+      "files": [
+        "lib/net35/UEditor.Core.dll",
+        "lib/netstandard2.0/UEditor.Core.dll",
+        "ueditor.core.1.0.6.nupkg.sha512",
+        "ueditor.core.nuspec"
+      ]
+    },
     "BlogCore.EFWork/1.0.0": {
       "type": "project",
       "path": "../BlogCore.EFWork/BlogCore.EFWork.csproj",
@@ -12366,28 +12391,29 @@
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 2.1.1",
+      "UEditor.Core >= 1.0.6",
       "jQuery >= 3.3.1",
       "microsoft.entityframeworkcore >= 2.1.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\10568\\.nuget\\packages\\": {},
+    "C:\\Users\\zhangyu\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ning\\BlogCore\\Blog\\src\\Blog.Web\\Blog.Web.csproj",
+      "projectUniqueName": "G:\\Core\\Blog\\src\\Blog.Web\\Blog.Web.csproj",
       "projectName": "Blog.Web",
-      "projectPath": "F:\\ning\\BlogCore\\Blog\\src\\Blog.Web\\Blog.Web.csproj",
-      "packagesPath": "C:\\Users\\10568\\.nuget\\packages\\",
-      "outputPath": "F:\\ning\\BlogCore\\Blog\\src\\Blog.Web\\obj\\",
+      "projectPath": "G:\\Core\\Blog\\src\\Blog.Web\\Blog.Web.csproj",
+      "packagesPath": "C:\\Users\\zhangyu\\.nuget\\packages\\",
+      "outputPath": "G:\\Core\\Blog\\src\\Blog.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\10568\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\zhangyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12400,8 +12426,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj": {
-              "projectPath": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj"
+            "G:\\Core\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj": {
+              "projectPath": "G:\\Core\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj"
             }
           }
         }
@@ -12429,6 +12455,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[2.1.1, )"
+          },
+          "UEditor.Core": {
+            "target": "Package",
+            "version": "[1.0.6, )"
           },
           "jQuery": {
             "target": "Package",

@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<script type="text/javascript">
+    $(function () {
+        getData();
+    });
+
+    function getData() {
+        $.ajax({
+            url: "/Admin/Menu/DocView",
+            data: { Page: $("#Page").val() },
+            type: "post",
+            dataType: "text",
+            success: function (data) {
+                $("#resultDIV").html("");
+                $("#resultDIV").html(data);
+            }
+        });
+    }
+
+    function pageChange(p) {
+        $("#Page").val(p);
+        getData();
+    }
+
+    function deleteById(id) {
+        $.post("/admin/menu/MenuDelete", { id: id }, function (data) {
+            layer.alert(data.msg, {
+                icon: data.code
+            });
+            getData();
+        });
+    }
+
+    function editMenu(id) {
+        addMenu(id);
+        getData();
+    }
+</script>
+
+<div class="crumb-wrap">
+    <div class="crumb-list"><i class="icon-font"></i><a href="/Admin/Home/Index">首页</a><span class="crumb-step">&gt;</span><span class="crumb-name">分类管理</span></div>
+</div>
+
+<div class="result-wrap">
+    <form name="myform" id="myform" method="post">
+        <div class="result-title">
+            <div class="result-list">
+                <a href="javascript:void(0);" onclick="addMenu(0)"><i class="icon-font"></i>新增分类</a>
+            </div>
+        </div>
+        <input type="hidden" id="Page" value="1" name="Page"/>
+        <div id="resultDIV">
+
+        </div>
+
+    </form>
+</div>
+
+<script type="text/javascript">
+    function addMenu(id) {
+        layer.open({
+            type: 2,
+            shadeClose: true,
+            title:"菜单添加/修改",
+            area: ['600px', '350px'],
+            content:'/Admin/Menu/MenuForm/'+id
+        });
+    }
+</script>
+

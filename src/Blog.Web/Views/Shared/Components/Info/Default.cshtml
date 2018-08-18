@@ -1,0 +1,52 @@
+﻿@model BlogCore.EFWork.Entity.User
+
+    <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+        <div class="sidebar-module sidebar-module-inset">
+            <h4>About</h4>
+
+            <div class="panel panel-primary">
+                <div class="panel-heading">
+                    作者简介
+                </div>
+                <div class="panel-body">
+                    <table class="table">
+                        <tbody>
+                            <tr>
+                                <td>作者:</td>
+                                <td>@Model.Name</td>
+                            </tr>
+                            <tr>
+                                <td>性别</td>
+                                <td>
+                                    @{
+                                        string sex = Model.Sex == 0 ? "男" : "女";
+                                    }
+                                    @sex
+                                </td>
+                            </tr>
+                            <tr>
+                                <td>年龄:</td>
+                                <td>@Model.Age</td>
+                            </tr>
+                            <tr>
+                                <td>毕业院校:</td>
+                                <td>@Model.School</td>
+                            </tr>
+                            <tr>
+                                <td>地址:</td>
+                                <td>@Model.Address</td>
+                            </tr>
+                            <tr>
+                                <td>公司:</td>
+                                <td>@Model.Company</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+                <div class="panel-footer">
+                    Built by  <a href="https://github.com/ZyCoderVs/Blog">张教主</a>
+                </div>
+            </div>
+        </div>
+
+    </div>

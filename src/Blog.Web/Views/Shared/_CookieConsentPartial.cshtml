@@ -21,10 +21,9 @@
             </div>
             <div class="collapse navbar-collapse">
                 <p class="navbar-text">
-                    Use this space to summarize your privacy and cookie use policy.
+                    使用这个空间总结您的隐私和cookie使用策略
                 </p>
                 <div class="navbar-right">
-                    <a asp-controller="Home" asp-action="Privacy" class="btn btn-info navbar-btn">Learn More</a>
                     <button type="button" class="btn btn-default navbar-btn" data-cookie-string="@cookieString">Accept</button>
                 </div>
             </div>
@@ -34,7 +33,10 @@
         (function () {
             document.querySelector("#cookieConsent button[data-cookie-string]").addEventListener("click", function (el) {
                 document.cookie = el.target.dataset.cookieString;
-                document.querySelector("#cookieConsent").classList.add("hidden");
+                //document.querySelector("#cookieConsent").classList.add("hidden");
+                $.post("@Url.Action("OkCookie", "Common")", "", function () {
+                    document.querySelector("#cookieConsent").classList.add("hidden");
+                });
             }, false);
         })();
     </script>

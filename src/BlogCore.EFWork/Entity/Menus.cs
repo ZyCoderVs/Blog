@@ -8,6 +8,8 @@ namespace BlogCore.EFWork.Entity
 
         public string MenuDesc { get; set; }
 
+        public string MenuCode { get; set; }
+
         public int ? IsDelete { get; set; }
 
         public virtual List<Article> Articles { get; set; }

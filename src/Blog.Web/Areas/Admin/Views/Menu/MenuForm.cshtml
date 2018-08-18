@@ -1,0 +1,67 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/_FrameLayout.cshtml";
+}
+@model BlogCore.EFWork.Entity.Menus
+
+<table class="insert-tab" width="100%">
+    <input type="hidden" id="Id" name="Id" value="@Model?.Id" />
+    <input type="hidden" id="CreateTime" name="CreateTime" value="@Model?.CreateTime" />
+    <input type="hidden" id="IsDelete" name="IsDelete" value="@Model?.IsDelete" />
+    <tbody>
+        <tr>
+            <th><i class="require-red">分类:</i></th>
+            <td>
+                <input class="common-text required" id="menuTitle" name="menuTitle" size="50" value="@Model?.MenuName" type="text" />
+            </td>
+        </tr>
+        <tr>
+            <th><i class="require-red">标识:</i></th>
+            <td>
+                <input class="common-text required" id="menuCode" name="menuCode" size="50" value="@Model?.MenuCode" type="text" />
+            </td>
+        </tr>
+        <tr>
+            <th>内容：</th>
+            <td><textarea name="menuDesc" class="common-textarea" id="menuDesc" cols="20" style="width: 98%;" rows="10">@Model?.MenuDesc</textarea></td>
+        </tr>
+        <tr>
+            <th></th>
+            <td>
+                <input class="btn btn-primary btn6 mr10" onclick="saveMenu()" value="提交" type="button" />
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<script type="text/javascript">
+    function saveMenu() {
+        var model = {
+            MenuName: $("#menuTitle").val(),
+            MenuCode: $("#menuCode").val(),
+            MenuDesc: $("#menuDesc").val(),
+            Id:$("#Id").val()
+        };
+        if (model.MenuName == "") {
+            layer.alert('请输入分类名称', {
+                icon: 0
+            });
+            return;
+        }
+        if (model.MenuCode == "") {
+            layer.alert('请输入分类标识', {
+                icon: 0
+            });
+            return;
+        }
+        $.post("/Admin/Menu/MenuAdd", model, function (data) {
+            layer.alert(data.msg, {
+                icon: data.code
+            });
+            setTimeout(function () {
+                parent.getData();
+            }, 500);
+        });
+    }
+</script>

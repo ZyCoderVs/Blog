@@ -11,6 +11,7 @@
 </head>
 <body>
     <div class="blog-masthead">
+            <partial name="_CookieConsentPartial" />
         @* 导航 *@
         @await Component.InvokeAsync("Nav", new { })
     </div>
@@ -36,12 +37,12 @@
     <script src="~/js/ie10-viewport-bug-workaround.js"></script>
     <script type="text/javascript">
         $.each($(".blog-nav").children("a"), function (i, v) {
-            if (window.location.pathname.indexOf($(v).attr("href"))!=-1) {
+            if (window.location.pathname.indexOf($(v).attr("href")) != -1) {
                 $(v).addClass("active");
-            } else { 
+            } else {
                 $(v).removeClass("active");
             }
-        })
+        });
     </script>   
     @RenderSection("Scripts", required: false)
 </body>

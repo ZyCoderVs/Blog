@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BlogCore.EFWork.Entity
+﻿namespace BlogCore.EFWork.Entity
 {
     public class Article : BaseEntity
     {
@@ -11,9 +7,13 @@ namespace BlogCore.EFWork.Entity
         public string Body { get; set; }
 
         public Menus Menu { get; set; }
+        public int ? MenuId { get; set; }
 
         public User User { get; set; }
+        public int ? UserId { get; set; }
+
         public Tag Tag { get; set; }
+        public int ? TagId { get; set; }
 
     }
 }

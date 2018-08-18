@@ -1,17 +1,32 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Blog.Web.Models;
+using BlogCore.EFWork.Infrastructure;
+using BlogCore.EFWork.IRepository;
+using BlogCore.EFWork.Model;
 using Microsoft.AspNetCore.Mvc;
-using Blog.Web.Models;
+using System.Diagnostics;
 
 namespace Blog.Web.Controllers
 {
+    [ExceptionFilters]
     public class HomeController : Controller
     {
-        public IActionResult Index()
+        private readonly IArticleRepository _articleRepository;
+        public HomeController(IArticleRepository articleRepository)
         {
+            _articleRepository = articleRepository;
+        }
+
+        public IActionResult Index(int type, int page)
+        {
+            GridPage gridPage = new GridPage
+            {
+                Page = page <=1 ? 1 : page,
+                Rows=3
+            };
+            var list= _articleRepository.GetArticlesPage(ref gridPage, "", type.ToString());
+            ViewBag.Type = type;
+            ViewBag.List = list;
+            ViewBag.Page = gridPage;
             return View();
         }
 

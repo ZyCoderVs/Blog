@@ -7,7 +7,7 @@
             <a class="blog-nav-item active" href="/Home/Index">首页</a>
             foreach (var item in (ViewData["list"] as List<Menus>))
             {
-                <a class="blog-nav-item" href="/home/index/@item.MenuName">@item.MenuName</a>
+                <a class="blog-nav-item" href="/home/index/@item.Id">@item.MenuName</a>
             }
         }
     </nav>

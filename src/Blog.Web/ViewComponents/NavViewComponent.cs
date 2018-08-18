@@ -1,4 +1,5 @@
 ﻿using BlogCore.EFWork.Entity;
+using BlogCore.EFWork.IRepository;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Threading.Tasks;
@@ -7,19 +8,14 @@ namespace Blog.Web.ViewComponents
 {
     public class NavViewComponent: ViewComponent
     {
+        private readonly IMenuRepository _menuRepository;
+        public NavViewComponent(IMenuRepository menuRepository)
+        {
+            _menuRepository = menuRepository;
+        }
         public async Task<IViewComponentResult> InvokeAsync()
         {
-            List<Menus> list = new List<Menus>();
-            list.Add(new Menus
-            {
-                Id=1,
-                MenuName="DotNet"
-            });
-            list.Add(new Menus
-            {
-                Id = 2,
-                MenuName = "Java"
-            });
+            List<Menus> list = _menuRepository.GetMenus();
             ViewData["list"] = list;
             return View();
         }
