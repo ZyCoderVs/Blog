@@ -8128,23 +8128,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\zhangyu\\.nuget\\packages\\": {},
+    "C:\\Users\\10568\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Core\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
+      "projectUniqueName": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
       "projectName": "BlogCore.EFWork",
-      "projectPath": "G:\\Core\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
-      "packagesPath": "C:\\Users\\zhangyu\\.nuget\\packages\\",
-      "outputPath": "G:\\Core\\Blog\\src\\BlogCore.EFWork\\obj\\",
+      "projectPath": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\BlogCore.EFWork.csproj",
+      "packagesPath": "C:\\Users\\10568\\.nuget\\packages\\",
+      "outputPath": "F:\\ning\\BlogCore\\Blog\\src\\BlogCore.EFWork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\zhangyu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\10568\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

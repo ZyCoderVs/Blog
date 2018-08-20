@@ -26,3 +26,17 @@ G:\Core\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.AssemblyInfo.
 G:\Core\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.csproj.CopyComplete
 G:\Core\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.dll
 G:\Core\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.pdb
+F:\ning\BlogCore\Blog\src\Blog.Console\bin\Debug\netcoreapp2.1\Blog.Console.deps.json
+F:\ning\BlogCore\Blog\src\Blog.Console\bin\Debug\netcoreapp2.1\Blog.Console.runtimeconfig.json
+F:\ning\BlogCore\Blog\src\Blog.Console\bin\Debug\netcoreapp2.1\Blog.Console.runtimeconfig.dev.json
+F:\ning\BlogCore\Blog\src\Blog.Console\bin\Debug\netcoreapp2.1\Blog.Console.dll
+F:\ning\BlogCore\Blog\src\Blog.Console\bin\Debug\netcoreapp2.1\Blog.Console.pdb
+F:\ning\BlogCore\Blog\src\Blog.Console\bin\Debug\netcoreapp2.1\BlogCore.EFWork.dll
+F:\ning\BlogCore\Blog\src\Blog.Console\bin\Debug\netcoreapp2.1\BlogCore.EFWork.pdb
+F:\ning\BlogCore\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.csprojAssemblyReference.cache
+F:\ning\BlogCore\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.csproj.CoreCompileInputs.cache
+F:\ning\BlogCore\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.AssemblyInfoInputs.cache
+F:\ning\BlogCore\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.AssemblyInfo.cs
+F:\ning\BlogCore\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.csproj.CopyComplete
+F:\ning\BlogCore\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.dll
+F:\ning\BlogCore\Blog\src\Blog.Console\obj\Debug\netcoreapp2.1\Blog.Console.pdb

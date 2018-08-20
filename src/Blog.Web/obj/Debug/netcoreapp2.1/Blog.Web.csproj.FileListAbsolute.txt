@@ -117,3 +117,15 @@ G:\Core\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Articl
 G:\Core\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Article\DocView.g.cshtml.cs
 G:\Core\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Article\Index.g.cshtml.cs
 G:\Core\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Info\Default.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Article\ArtForm.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Article\DocView.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Article\Index.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Home\Index.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Menu\DocView.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Menu\Index.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Menu\MenuForm.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_FrameLayout.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_Layout.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Areas\Admin\Views\Shared\_SideBar.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Article\Index.g.cshtml.cs
+F:\ning\BlogCore\Blog\src\Blog.Web\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Info\Default.g.cshtml.cs

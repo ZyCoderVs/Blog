@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace BlogCore.EFWork.Migrations
 {
-    public partial class init : Migration
+    public partial class update : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -17,6 +17,7 @@ namespace BlogCore.EFWork.Migrations
                     CreateTime = table.Column<DateTime>(nullable: true),
                     MenuName = table.Column<string>(nullable: true),
                     MenuDesc = table.Column<string>(nullable: true),
+                    MenuCode = table.Column<string>(nullable: true),
                     IsDelete = table.Column<int>(nullable: true)
                 },
                 constraints: table =>

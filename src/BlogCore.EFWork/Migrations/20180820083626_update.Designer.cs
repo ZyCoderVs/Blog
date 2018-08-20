@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BlogCore.EFWork.Migrations
 {
     [DbContext(typeof(BlogContext))]
-    [Migration("20180818043048_updateMenu")]
-    partial class updateMenu
+    [Migration("20180820083626_update")]
+    partial class update
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

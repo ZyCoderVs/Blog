@@ -33,17 +33,17 @@ namespace BlogCore.EFWork.Repository
         {
             using (var db = new BlogContext())
             {
-                return db.Articles.SingleOrDefault(c => c.Id == id);
+                return db.Articles.Include(c=>c.Menu).Include(c=>c.User).SingleOrDefault(c => c.Id == id);
             }
         }
 
         public List<Article> GetArticlesPage(ref GridPage gridPage, string keyWords,string menuId)
         {
-            using (var db=new BlogContext())
+            using (var db = new BlogContext())
             {
-                var list = string.IsNullOrWhiteSpace(keyWords) ? db.Articles.Include(c=>c.User) as IEnumerable<Article> : db.Articles.Include(c=>c.User).Where(c => c.Title.Contains(keyWords)) as IEnumerable<Article>;
+                var list = string.IsNullOrWhiteSpace(keyWords) ? db.Articles.Include(c => c.User) as IEnumerable<Article> : db.Articles.Include(c => c.User).Where(c => c.Title.Contains(keyWords)) as IEnumerable<Article>;
                 int.TryParse(menuId, out int menuIds);
-                if(menuIds!=0)
+                if (menuIds != 0)
                     list = list.Where(c => c.MenuId == menuIds);
                 gridPage.Records = list.Count();
                 return list.OrderByDescending(c => c.CreateTime)

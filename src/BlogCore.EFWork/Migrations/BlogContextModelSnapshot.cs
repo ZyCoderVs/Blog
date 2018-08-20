@@ -125,7 +125,7 @@ namespace BlogCore.EFWork.Migrations
                         .WithMany("Articles")
                         .HasForeignKey("MenuId");
 
-                    b.HasOne("BlogCore.EFWork.Entity.Tag")
+                    b.HasOne("BlogCore.EFWork.Entity.Tag", "Tag")
                         .WithMany("Articles")
                         .HasForeignKey("TagId");
 

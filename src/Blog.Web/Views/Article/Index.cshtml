@@ -3,5 +3,37 @@
     ViewData["Title"] = "Index";
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
+@model BlogCore.EFWork.Entity.Article
+
+@if (Model != null)
+{
+    <div class="blog-header">
+        <h1 class="blog-title">@Model.Title</h1>
+        <p class="lead blog-description">所属分类:@Model.Menu.MenuName 作者:@Model.User.Name 发布时间:@Model.CreateTime</p>
+    </div>
+    <div class="row">
+        <div class="col-sm-8 blog-main">
+            <div class="panel panel-default">
+                <div class="panel-body">
+                    @Html.Raw(Model.Body)
+                </div>
+            </div>
+            <!--PC版-->
+            <div id="SOHUCS"></div>
+            <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js"></script>
+            <script type="text/javascript">
+                window.changyan.api.config({
+                    appid: 'cysXUImV0',
+                    conf: 'prod_d92ff03fd5f4878c19032f91df0a3699'
+                });
+            </script>
+
+
+
+        </div>
+        @await Component.InvokeAsync("Info", new { })
+    </div>
+}
+
 
 

@@ -3,6 +3,7 @@
 }
 @using BlogCore.EFWork.Entity
 @using BlogCore.EFWork.Model
+@using BlogCore.EFWork.Infrastructure
 
 <div class="blog-header">
     <h1 class="blog-title">Sample Blog</h1>
@@ -15,11 +16,15 @@
         @foreach (Article item in ViewBag.List)
         {
             <div class="blog-post">
-                <h2 class="blog-post-title">
-                    @item.Title
-                </h2>
+                <a href="/Article/Index/@item.Id">
+                    <h2 class="blog-post-title">
+                        @item.Title
+                    </h2>
+                </a>
                 <p class="blog-post-meta">@item.CreateTime by <a href="#">@item.User.Name</a></p>
-                @Html.Raw(item.Body)
+                <div class="panel-body panel-default">
+                    @Html.Raw(item.Body.GetAbstract(300)+"。。。。。。")
+                </div>
             </div><!-- /.blog-post -->
         }
         @{
